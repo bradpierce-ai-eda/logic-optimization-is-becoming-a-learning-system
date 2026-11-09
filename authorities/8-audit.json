@@ -1,0 +1,36 @@
+{
+  "slot": 8,
+  "published_reference": "[8] Kunlong Li, Shangshang Yao, Su Zheng, and Lingli Wang. StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful Closed-Loop Process. Preprint 2026.",
+  "source_url": "https://arxiv.org/abs/2608.23601",
+  "retrieval_url": "https://arxiv.org/abs/2608.23601",
+  "final_url": "https://arxiv.org/abs/2608.23601",
+  "status": 200,
+  "response_sha256": "09ed5c89ba69218e1cce793defa7826a7de85bbf915efb59bf76434eb1169d13",
+  "authority": {
+    "citation_title": [
+      "StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful, Closed-Loop Process"
+    ],
+    "citation_author": [
+      "Li, Kunlong",
+      "Yao, Shangshang",
+      "Zheng, Su",
+      "Wang, Lingli"
+    ],
+    "citation_doi": [
+      "10.1145/3831252.3834031"
+    ],
+    "citation_date": [
+      "2026/08/19"
+    ],
+    "citation_online_date": [
+      "2026/08/19"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2608.23601"
+    ],
+    "citation_arxiv_id": [
+      "2608.23601"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

@@ -1,0 +1,44 @@
+{
+  "slot": 27,
+  "published_reference": "[27] Scott Rose, Oliver Borchert, Stu Mitchell, and Sean Connelly. Zero Trust Architecture. NIST Special Publication 800-207, 2020.",
+  "source_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+  "retrieval_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+  "response_sha256": "57782feea2ee8c8d2cc76585925aa1733b510109e54386d3dd13bf2996a0d135",
+  "authority": {
+    "citation_title": [
+      "Zero Trust Architecture"
+    ],
+    "citation_publication_date": [
+      "2020/08/11"
+    ],
+    "citation_doi": [
+      "https://doi.org/10.6028/NIST.SP.800-207"
+    ],
+    "citation_technical_report_number": [
+      "NIST Special Publication (SP) 800-207"
+    ],
+    "citation_technical_report_institution": [
+      "National Institute of Standards and Technology"
+    ],
+    "citation_keywords": [
+      "architecture,cybersecurity,enterprise,network security,zero trust"
+    ],
+    "citation_language": [
+      "en"
+    ],
+    "citation_pdf_url": [
+      "https://doi.org/10.6028/NIST.SP.800-207"
+    ],
+    "citation_abstract_html_url": [
+      "https://csrc.nist.gov/pubs/sp/800/207/final"
+    ],
+    "citation_author": [
+      "Rose, Scott",
+      "Borchert, Oliver",
+      "Mitchell, Stu",
+      "Connelly, Sean"
+    ]
+  },
+  "status": 200,
+  "retrieved_date": "2026-11-09"
+}

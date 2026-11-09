@@ -1,0 +1,34 @@
+{
+  "slot": 9,
+  "published_reference": "[9] Chen Chen, Guangyu Hu, Cunxi Yu, Yuzhe Ma, and Hongce Zhang. E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis. Preprint 2025.",
+  "source_url": "https://arxiv.org/abs/2504.11574",
+  "retrieval_url": "https://arxiv.org/abs/2504.11574",
+  "final_url": "https://arxiv.org/abs/2504.11574",
+  "status": 200,
+  "response_sha256": "96b77f42f32895cfb3b6a452052b2ee3baf53e2d747bbb20c1d6420817ee0aae",
+  "authority": {
+    "citation_title": [
+      "E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis"
+    ],
+    "citation_author": [
+      "Chen, Chen",
+      "HU, Guangyu",
+      "Yu, Cunxi",
+      "Ma, Yuzhe",
+      "Zhang, Hongce"
+    ],
+    "citation_date": [
+      "2025/04/15"
+    ],
+    "citation_online_date": [
+      "2025/04/20"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2504.11574"
+    ],
+    "citation_arxiv_id": [
+      "2504.11574"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

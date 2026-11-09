@@ -1,0 +1,36 @@
+{
+  "slot": 19,
+  "published_reference": "[19] Jinyuan Deng and colleagues. Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows. Preprint 2026.",
+  "source_url": "https://arxiv.org/abs/2607.17528",
+  "retrieval_url": "https://arxiv.org/abs/2607.17528",
+  "final_url": "https://arxiv.org/abs/2607.17528",
+  "status": 200,
+  "response_sha256": "dbe19a8a996e58b508eec306cafdcd803d4b92198ed6035054f402d95d189457",
+  "authority": {
+    "citation_title": [
+      "Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows"
+    ],
+    "citation_author": [
+      "Deng, Jinyuan",
+      "Chen, Zhengrui",
+      "Wei, Xufeng",
+      "Xing, Tianyu",
+      "Wen, Chenyi",
+      "Sun, Qi",
+      "Zhuo, Cheng"
+    ],
+    "citation_date": [
+      "2026/07/20"
+    ],
+    "citation_online_date": [
+      "2026/07/23"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2607.17528"
+    ],
+    "citation_arxiv_id": [
+      "2607.17528"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

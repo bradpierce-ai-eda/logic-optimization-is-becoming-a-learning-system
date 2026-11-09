@@ -1,0 +1,32 @@
+{
+  "slot": 22,
+  "published_reference": "[22] Eshan Singh, Clark Barrett, and Subhasish Mitra. E-QED: Electrical Bug Localization During Post-Silicon Validation Enabled by Quick Error Detection and Formal Methods. 2017.",
+  "source_url": "https://arxiv.org/abs/1707.07671",
+  "retrieval_url": "https://arxiv.org/abs/1707.07671",
+  "final_url": "https://arxiv.org/abs/1707.07671",
+  "status": 200,
+  "response_sha256": "02a49fa9eb3fe10828e550bebd7273f2117a99f94d4992ecbab42daba7186771",
+  "authority": {
+    "citation_title": [
+      "E-QED: Electrical Bug Localization During Post-Silicon Validation Enabled by Quick Error Detection and Formal Methods"
+    ],
+    "citation_author": [
+      "Singh, Eshan",
+      "Barrett, Clark",
+      "Mitra, Subhasish"
+    ],
+    "citation_date": [
+      "2017/07/23"
+    ],
+    "citation_online_date": [
+      "2017/07/23"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/1707.07671"
+    ],
+    "citation_arxiv_id": [
+      "1707.07671"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

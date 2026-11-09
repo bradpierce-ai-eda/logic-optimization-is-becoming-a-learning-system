@@ -1,0 +1,31 @@
+{
+  "slot": 6,
+  "published_reference": "[6] Cunxi Yu and Haoxing Ren. Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC. Preprint 2026.",
+  "source_url": "https://arxiv.org/abs/2604.15082",
+  "retrieval_url": "https://arxiv.org/abs/2604.15082",
+  "final_url": "https://arxiv.org/abs/2604.15082",
+  "status": 200,
+  "response_sha256": "8812d39da53e3f564d3a8d81a5935647f595584f33501556070b9d06a78837fe",
+  "authority": {
+    "citation_title": [
+      "Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC"
+    ],
+    "citation_author": [
+      "Yu, Cunxi",
+      "Ren, Haoxing"
+    ],
+    "citation_date": [
+      "2026/04/16"
+    ],
+    "citation_online_date": [
+      "2026/04/16"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2604.15082"
+    ],
+    "citation_arxiv_id": [
+      "2604.15082"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

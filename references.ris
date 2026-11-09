@@ -1,0 +1,439 @@
+TY  - UNPB
+ID  - Pierce2026Ref01
+TI  - DRiLLS: Deep Reinforcement Learning for Logic Synthesis
+AU  - Hosny, Abdelrahman
+AU  - Hashemi, Soheil
+AU  - Shalan, Mohamed
+AU  - Reda, Sherief
+PY  - 2019
+DA  - 2019/11/11
+UR  - https://arxiv.org/abs/1911.04021
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref02
+TI  - INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search
+AU  - Chowdhury, Animesh Basak
+AU  - Romanelli, Marco
+AU  - Tan, Benjamin
+AU  - Karri, Ramesh
+AU  - Garg, Siddharth
+PY  - 2023
+DA  - 2023/05/22
+UR  - https://arxiv.org/abs/2305.13164
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref03
+TI  - SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning
+AU  - Wang, Yiting
+AU  - Ye, Wanghao
+AU  - Guo, Ping
+AU  - He, Yexiao
+AU  - Wang, Ziyao
+AU  - Tian, Bowei
+AU  - He, Shwai
+AU  - Sun, Guoheng
+AU  - Shen, Zheyu
+AU  - Chen, Sihan
+AU  - Srivastava, Ankur
+AU  - Zhang, Qingfu
+AU  - Qu, Gang
+AU  - Li, Ang
+PY  - 2025
+DA  - 2025/04/14
+UR  - https://arxiv.org/abs/2504.10369
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref04
+TI  - A New Benchmark for the Appropriate Evaluation of RTL Code Optimization
+AU  - Lu, Yao
+AU  - Liu, Shang
+AU  - Zhou, Hangan
+AU  - Fang, Wenji
+AU  - Zhang, Qijun
+AU  - Xie, Zhiyao
+PY  - 2026
+DA  - 2026/01/05
+UR  - https://arxiv.org/abs/2601.01765
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref05
+TI  - Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement
+AU  - Fang, Wenji
+AU  - Lu, Yao
+AU  - Liu, Shang
+AU  - Wang, Jing
+AU  - Guo, Ziyan
+AU  - He, Junxian
+AU  - Tu, Fengbin
+AU  - Xie, Zhiyao
+PY  - 2026
+DA  - 2026/04/16
+UR  - https://arxiv.org/abs/2604.14989
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref06
+TI  - Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC
+AU  - Yu, Cunxi
+AU  - Ren, Haoxing
+PY  - 2026
+DA  - 2026/04/16
+UR  - https://arxiv.org/abs/2604.15082
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref07
+TI  - MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend Aware Synthesis Optimization
+AU  - Wang, Yiting
+AU  - Ye, Wanghao
+AU  - He, Yexiao
+AU  - Chen, Yiran
+AU  - Qu, Gang
+AU  - Li, Ang
+PY  - 2025
+DA  - 2025/07/25
+UR  - https://arxiv.org/abs/2507.19570
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref08
+TI  - StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful, Closed-Loop Process
+AU  - Li, Kunlong
+AU  - Yao, Shangshang
+AU  - Zheng, Su
+AU  - Wang, Lingli
+PY  - 2026
+DA  - 2026/08/19
+UR  - https://arxiv.org/abs/2608.23601
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref09
+TI  - E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis
+AU  - Chen, Chen
+AU  - HU, Guangyu
+AU  - Yu, Cunxi
+AU  - Ma, Yuzhe
+AU  - Zhang, Hongce
+PY  - 2025
+DA  - 2025/04/15
+UR  - https://arxiv.org/abs/2504.11574
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref10
+TI  - Equality Saturation: A New Approach to Optimization
+AU  - Tate, Ross
+AU  - Stepp, Michael
+AU  - Tatlock, Zachary
+AU  - Lerner, Sorin
+PY  - 2010
+DA  - 2010/12/02
+UR  - https://arxiv.org/abs/1012.1802
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref11
+TI  - MLIR: A Compiler Infrastructure for the End of Moore's Law
+AU  - Lattner, Chris
+AU  - Amini, Mehdi
+AU  - Bondhugula, Uday
+AU  - Cohen, Albert
+AU  - Davis, Andy
+AU  - Pienaar, Jacques
+AU  - Riddle, River
+AU  - Shpeisman, Tatiana
+AU  - Vasilache, Nicolas
+AU  - Zinenko, Oleksandr
+PY  - 2020
+DA  - 2020/02/25
+UR  - https://arxiv.org/abs/2002.11054
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref12
+TI  - Interactive Program Synthesis
+AU  - Le, Vu
+AU  - Perelman, Daniel
+AU  - Polozov, Oleksandr
+AU  - Raza, Mohammad
+AU  - Udupa, Abhishek
+AU  - Gulwani, Sumit
+PY  - 2017
+DA  - 2017/03/10
+UR  - https://arxiv.org/abs/1703.03539
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref13
+TI  - Information-theoretic User Interaction: Significant Inputs for Program Synthesis
+AU  - Tiwari, Ashish
+AU  - Radhakrishna, Arjun
+AU  - Gulwani, Sumit
+AU  - Perelman, Daniel
+PY  - 2020
+DA  - 2020/06/22
+UR  - https://arxiv.org/abs/2006.12638
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref14
+TI  - ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization
+AU  - Pan, Haolin
+AU  - Huang, Lianghong
+AU  - Dong, Jinyuan
+AU  - Xing, Mingjie
+AU  - Wu, Yanjun
+PY  - 2026
+DA  - 2026/01/23
+UR  - https://arxiv.org/abs/2602.00087
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref15
+TI  - Invited: Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research
+AU  - Jiang, Liwen
+AU  - Kahng, Andrew B.
+AU  - Wang, Zhiang
+AU  - Zheng, Zhiyu
+PY  - 2026
+DA  - 2026/01/24
+UR  - https://arxiv.org/abs/2601.17520
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref16
+TI  - OpenLS-DGF: An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis
+AU  - Ni, Liwei
+AU  - Wang, Rui
+AU  - Liu, Miao
+AU  - Meng, Xingyu
+AU  - Lin, Xiaoze
+AU  - Liu, Junfeng
+AU  - Luo, Guojie
+AU  - Chu, Zhufei
+AU  - Qian, Weikang
+AU  - Yang, Xiaoyan
+AU  - Xie, Biwei
+AU  - Li, Xingquan
+AU  - Li, Huawei
+PY  - 2024
+DA  - 2024/11/14
+UR  - https://arxiv.org/abs/2411.09422
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref17
+TI  - A Generic Model of Contracts for Embedded Systems
+AU  - Benveniste, Albert
+AU  - Caillaud, Benoit
+AU  - Passerone, Roberto
+PY  - 2007
+DA  - 2007/06/11
+UR  - https://arxiv.org/abs/0706.1456
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref18
+TI  - Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design
+AU  - Incer, Inigo
+AU  - Badithela, Apurva
+AU  - Graebener, Josefine
+AU  - Mallozzi, Piergiuseppe
+AU  - Pandey, Ayush
+AU  - Yu, Sheng-Jung
+AU  - Benveniste, Albert
+AU  - Caillaud, Benoit
+AU  - Murray, Richard M.
+AU  - Sangiovanni-Vincentelli, Alberto
+AU  - Seshia, Sanjit A.
+PY  - 2023
+DA  - 2023/03/31
+UR  - https://arxiv.org/abs/2303.17751
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref19
+TI  - Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows
+AU  - Deng, Jinyuan
+AU  - Chen, Zhengrui
+AU  - Wei, Xufeng
+AU  - Xing, Tianyu
+AU  - Wen, Chenyi
+AU  - Sun, Qi
+AU  - Zhuo, Cheng
+PY  - 2026
+DA  - 2026/07/20
+UR  - https://arxiv.org/abs/2607.17528
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - CPAPER
+ID  - Pierce2026Ref20
+TI  - Post-silicon validation opportunities, challenges and recent advances
+AU  - Mitra, Subhasish
+AU  - Seshia, Sanjit A.
+AU  - Nicolici, Nicola
+PY  - 2010
+DA  - 2010/06/13
+UR  - https://doi.org/10.1145/1837274.1837280
+N1  - Published print/proceedings version; exact original reference is retained separately.
+DO  - 10.1145/1837274.1837280
+T2  - Proceedings of the 47th Design Automation Conference
+PB  - ACM
+SP  - 12
+EP  - 17
+ER  - 
+
+TY  - CPAPER
+ID  - Pierce2026Ref21
+TI  - Silicon speedpath measurement and feedback into EDA flows
+AU  - Killpack, Kip
+AU  - Kashyap, Chandramouli
+AU  - Chiprout, Eli
+PY  - 2007
+DA  - 2007
+UR  - https://doi.org/10.1145/1278480.1278581
+N1  - Published print/proceedings version; exact original reference is retained separately.
+DO  - 10.1145/1278480.1278581
+T2  - Proceedings of the 44th annual conference on Design automation - DAC '07
+PB  - ACM Press
+SP  - 390
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref22
+TI  - E-QED: Electrical Bug Localization During Post-Silicon Validation Enabled by Quick Error Detection and Formal Methods
+AU  - Singh, Eshan
+AU  - Barrett, Clark
+AU  - Mitra, Subhasish
+PY  - 2017
+DA  - 2017/07/23
+UR  - https://arxiv.org/abs/1707.07671
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - UNPB
+ID  - Pierce2026Ref23
+TI  - Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing
+AU  - Mitra, Subhasish
+AU  - Banerjee, Subho
+AU  - Dixon, Martin
+AU  - Govindaraju, Rama
+AU  - Hochschild, Peter
+AU  - Liu, Eric X.
+AU  - Parthasarathy, Bharath
+AU  - Ranganathan, Parthasarathy
+PY  - 2025
+DA  - 2025/08/03
+UR  - https://arxiv.org/abs/2508.01786
+N1  - arXiv preprint; linked publication metadata remains separate.
+ER  - 
+
+TY  - CPAPER
+ID  - Pierce2026Ref24
+TI  - Multi-fidelity Bayesian Optimisation with Continuous Approximations
+AU  - Kandasamy, Kirthevasan
+AU  - Dasarathy, Gautam
+AU  - Schneider, Jeff
+AU  - Póczos, Barnabás
+PY  - 2017
+DA  - 2017/07/17
+UR  - https://proceedings.mlr.press/v70/kandasamy17a.html
+N1  - Published proceedings version.
+T2  - International Conference on Machine Learning
+PB  - PMLR
+VL  - 70
+SP  - 1799
+EP  - 1808
+ER  - 
+
+TY  - JOUR
+ID  - Pierce2026Ref25
+TI  - Exploring internal stickiness: Impediments to the transfer of best practice within the firm
+AU  - Szulanski, Gabriel
+PY  - 1996
+DA  - 1996/12
+UR  - https://doi.org/10.1002/smj.4250171105
+N1  - Published print/proceedings version; exact original reference is retained separately.
+DO  - 10.1002/smj.4250171105
+T2  - Strategic Management Journal
+PB  - Wiley
+VL  - 17
+IS  - S2
+SP  - 27
+EP  - 43
+ER  - 
+
+TY  - JOUR
+ID  - Pierce2026Ref26
+TI  - Power, Status, and Learning in Organizations
+AU  - Bunderson, J. Stuart
+AU  - Reagans, Ray E.
+PY  - 2011
+DA  - 2011/10
+UR  - https://doi.org/10.1287/orsc.1100.0590
+N1  - Published print/proceedings version; exact original reference is retained separately.
+DO  - 10.1287/orsc.1100.0590
+T2  - Organization Science
+PB  - Institute for Operations Research and the Management Sciences (INFORMS)
+VL  - 22
+IS  - 5
+SP  - 1182
+EP  - 1194
+ER  - 
+
+TY  - RPRT
+ID  - Pierce2026Ref27
+TI  - Zero Trust Architecture
+AU  - Rose, Scott
+AU  - Borchert, Oliver
+AU  - Mitchell, Stu
+AU  - Connelly, Sean
+PY  - 2020
+DA  - 2020/08/11
+UR  - https://doi.org/10.6028/NIST.SP.800-207
+N1  - NIST final publication.
+DO  - 10.6028/NIST.SP.800-207
+PB  - National Institute of Standards and Technology
+M1  - NIST Special Publication (SP) 800-207
+ER  - 
+
+TY  - JOUR
+ID  - Pierce2026Ref28
+TI  - Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail
+AU  - Beane, Matthew
+PY  - 2019
+DA  - 2019/03
+UR  - https://doi.org/10.1177/0001839217751692
+N1  - Published print/proceedings version; exact original reference is retained separately.
+DO  - 10.1177/0001839217751692
+T2  - Administrative Science Quarterly
+PB  - SAGE Publications
+VL  - 64
+IS  - 1
+SP  - 87
+EP  - 123
+ER  - 

@@ -1,0 +1,43 @@
+{
+  "slot": 3,
+  "published_reference": "[3] Yiting Wang and colleagues. SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning. Preprint 2025.",
+  "source_url": "https://arxiv.org/abs/2504.10369",
+  "retrieval_url": "https://arxiv.org/abs/2504.10369",
+  "final_url": "https://arxiv.org/abs/2504.10369",
+  "status": 200,
+  "response_sha256": "2b22542d11d54361b93e9096d0357f84a114b14ba07db6c95983dbba0790ed3a",
+  "authority": {
+    "citation_title": [
+      "SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning"
+    ],
+    "citation_author": [
+      "Wang, Yiting",
+      "Ye, Wanghao",
+      "Guo, Ping",
+      "He, Yexiao",
+      "Wang, Ziyao",
+      "Tian, Bowei",
+      "He, Shwai",
+      "Sun, Guoheng",
+      "Shen, Zheyu",
+      "Chen, Sihan",
+      "Srivastava, Ankur",
+      "Zhang, Qingfu",
+      "Qu, Gang",
+      "Li, Ang"
+    ],
+    "citation_date": [
+      "2025/04/14"
+    ],
+    "citation_online_date": [
+      "2025/09/22"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2504.10369"
+    ],
+    "citation_arxiv_id": [
+      "2504.10369"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

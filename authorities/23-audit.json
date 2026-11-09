@@ -1,0 +1,37 @@
+{
+  "slot": 23,
+  "published_reference": "[23] Subhasish Mitra and colleagues. Silent Data Corruption by 10× Test Escapes Threatens Reliable Computing. 2025.",
+  "source_url": "https://arxiv.org/abs/2508.01786",
+  "retrieval_url": "https://arxiv.org/abs/2508.01786",
+  "final_url": "https://arxiv.org/abs/2508.01786",
+  "status": 200,
+  "response_sha256": "8f6ca6c331f0e755e5b5b78b35fccd15031e1f949907a6372944218b3758b029",
+  "authority": {
+    "citation_title": [
+      "Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing"
+    ],
+    "citation_author": [
+      "Mitra, Subhasish",
+      "Banerjee, Subho",
+      "Dixon, Martin",
+      "Govindaraju, Rama",
+      "Hochschild, Peter",
+      "Liu, Eric X.",
+      "Parthasarathy, Bharath",
+      "Ranganathan, Parthasarathy"
+    ],
+    "citation_date": [
+      "2025/08/03"
+    ],
+    "citation_online_date": [
+      "2025/08/21"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2508.01786"
+    ],
+    "citation_arxiv_id": [
+      "2508.01786"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

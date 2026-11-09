@@ -1,0 +1,35 @@
+{
+  "slot": 7,
+  "published_reference": "[7] Yiting Wang and colleagues. MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend-Aware Synthesis Optimization. Preprint 2025.",
+  "source_url": "https://arxiv.org/abs/2507.19570",
+  "retrieval_url": "https://arxiv.org/abs/2507.19570",
+  "final_url": "https://arxiv.org/abs/2507.19570",
+  "status": 200,
+  "response_sha256": "3007083fefbdf2d6870c982f12f2dfb397217d703c382830e5f2f747b9159aa0",
+  "authority": {
+    "citation_title": [
+      "MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend Aware Synthesis Optimization"
+    ],
+    "citation_author": [
+      "Wang, Yiting",
+      "Ye, Wanghao",
+      "He, Yexiao",
+      "Chen, Yiran",
+      "Qu, Gang",
+      "Li, Ang"
+    ],
+    "citation_date": [
+      "2025/07/25"
+    ],
+    "citation_online_date": [
+      "2025/07/25"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2507.19570"
+    ],
+    "citation_arxiv_id": [
+      "2507.19570"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

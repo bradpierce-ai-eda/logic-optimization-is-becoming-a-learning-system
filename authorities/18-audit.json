@@ -1,0 +1,43 @@
+{
+  "slot": 18,
+  "published_reference": "[18] Inigo Incer and colleagues. Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design. 2023.",
+  "source_url": "https://arxiv.org/abs/2303.17751",
+  "retrieval_url": "https://arxiv.org/abs/2303.17751",
+  "final_url": "https://arxiv.org/abs/2303.17751",
+  "status": 200,
+  "response_sha256": "bcfa9973850e28538ca8510015710ec4a8c730aaef219a4e9d8035e5bc15b290",
+  "authority": {
+    "citation_title": [
+      "Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design"
+    ],
+    "citation_author": [
+      "Incer, Inigo",
+      "Badithela, Apurva",
+      "Graebener, Josefine",
+      "Mallozzi, Piergiuseppe",
+      "Pandey, Ayush",
+      "Yu, Sheng-Jung",
+      "Benveniste, Albert",
+      "Caillaud, Benoit",
+      "Murray, Richard M.",
+      "Sangiovanni-Vincentelli, Alberto",
+      "Seshia, Sanjit A."
+    ],
+    "citation_doi": [
+      "10.1145/3704736"
+    ],
+    "citation_date": [
+      "2023/03/31"
+    ],
+    "citation_online_date": [
+      "2023/03/31"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2303.17751"
+    ],
+    "citation_arxiv_id": [
+      "2303.17751"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

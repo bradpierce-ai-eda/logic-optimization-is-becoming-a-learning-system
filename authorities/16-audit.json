@@ -1,0 +1,42 @@
+{
+  "slot": 16,
+  "published_reference": "[16] Liwei Ni and colleagues. OpenLS-DGF: An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis. Preprint 2024.",
+  "source_url": "https://arxiv.org/abs/2411.09422",
+  "retrieval_url": "https://arxiv.org/abs/2411.09422",
+  "final_url": "https://arxiv.org/abs/2411.09422",
+  "status": 200,
+  "response_sha256": "c1917e623f5cb51d4b0920da9c45ea6d16c9722c037f57a9559f83e08d3782d1",
+  "authority": {
+    "citation_title": [
+      "OpenLS-DGF: An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis"
+    ],
+    "citation_author": [
+      "Ni, Liwei",
+      "Wang, Rui",
+      "Liu, Miao",
+      "Meng, Xingyu",
+      "Lin, Xiaoze",
+      "Liu, Junfeng",
+      "Luo, Guojie",
+      "Chu, Zhufei",
+      "Qian, Weikang",
+      "Yang, Xiaoyan",
+      "Xie, Biwei",
+      "Li, Xingquan",
+      "Li, Huawei"
+    ],
+    "citation_date": [
+      "2024/11/14"
+    ],
+    "citation_online_date": [
+      "2024/11/16"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2411.09422"
+    ],
+    "citation_arxiv_id": [
+      "2411.09422"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

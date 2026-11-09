@@ -1,0 +1,33 @@
+{
+  "slot": 13,
+  "published_reference": "[13] Ashish Tiwari, Arjun Radhakrishna, Sumit Gulwani, and Daniel Perelman. Information-theoretic User Interaction: Significant Inputs for Program Synthesis. 2020.",
+  "source_url": "https://arxiv.org/abs/2006.12638",
+  "retrieval_url": "https://arxiv.org/abs/2006.12638",
+  "final_url": "https://arxiv.org/abs/2006.12638",
+  "status": 200,
+  "response_sha256": "8b7c6b579df8eced550c8e0f05069a5237614b49cd4d853016b9c37b74a94d09",
+  "authority": {
+    "citation_title": [
+      "Information-theoretic User Interaction: Significant Inputs for Program Synthesis"
+    ],
+    "citation_author": [
+      "Tiwari, Ashish",
+      "Radhakrishna, Arjun",
+      "Gulwani, Sumit",
+      "Perelman, Daniel"
+    ],
+    "citation_date": [
+      "2020/06/22"
+    ],
+    "citation_online_date": [
+      "2020/06/22"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2006.12638"
+    ],
+    "citation_arxiv_id": [
+      "2006.12638"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

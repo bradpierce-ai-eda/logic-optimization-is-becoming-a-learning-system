@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "The publication of record is the DOI-linked Zenodo paper."
+title: "Logic Optimization Is Becoming a Learning System"
+authors:
+  - family-names: Pierce
+    given-names: Brad
+    orcid: https://orcid.org/0009-0009-7427-2969
+date-released: '2026-09-11'
+doi: 10.5281/zenodo.22837235
+url: https://doi.org/10.5281/zenodo.22837235
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Pierce
+      given-names: Brad
+  title: "Logic Optimization Is Becoming a Learning System"
+  year: 2026
+  doi: 10.5281/zenodo.22837235
+  url: https://doi.org/10.5281/zenodo.22837235

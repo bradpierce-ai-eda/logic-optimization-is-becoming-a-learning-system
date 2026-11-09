@@ -1,0 +1,37 @@
+{
+  "slot": 5,
+  "published_reference": "[5] Wenji Fang and colleagues. Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement. Preprint 2026.",
+  "source_url": "https://arxiv.org/abs/2604.14989",
+  "retrieval_url": "https://arxiv.org/abs/2604.14989",
+  "final_url": "https://arxiv.org/abs/2604.14989",
+  "status": 200,
+  "response_sha256": "c35d0266fa430bc59aabe273012390c8fa9e0765c99c4803c27523d751e4739c",
+  "authority": {
+    "citation_title": [
+      "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement"
+    ],
+    "citation_author": [
+      "Fang, Wenji",
+      "Lu, Yao",
+      "Liu, Shang",
+      "Wang, Jing",
+      "Guo, Ziyan",
+      "He, Junxian",
+      "Tu, Fengbin",
+      "Xie, Zhiyao"
+    ],
+    "citation_date": [
+      "2026/04/16"
+    ],
+    "citation_online_date": [
+      "2026/04/26"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2604.14989"
+    ],
+    "citation_arxiv_id": [
+      "2604.14989"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

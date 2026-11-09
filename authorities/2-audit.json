@@ -1,0 +1,34 @@
+{
+  "slot": 2,
+  "published_reference": "[2] Animesh Basak Chowdhury, Marco Romanelli, Benjamin Tan, Ramesh Karri, and Siddharth Garg. INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search. Preprint 2023.",
+  "source_url": "https://arxiv.org/abs/2305.13164",
+  "retrieval_url": "https://arxiv.org/abs/2305.13164",
+  "final_url": "https://arxiv.org/abs/2305.13164",
+  "status": 200,
+  "response_sha256": "6c7910b7feff95e120fb6e2470c82af30173f74f79dd19b2eb08e7bb650dbad7",
+  "authority": {
+    "citation_title": [
+      "INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search"
+    ],
+    "citation_author": [
+      "Chowdhury, Animesh Basak",
+      "Romanelli, Marco",
+      "Tan, Benjamin",
+      "Karri, Ramesh",
+      "Garg, Siddharth"
+    ],
+    "citation_date": [
+      "2023/05/22"
+    ],
+    "citation_online_date": [
+      "2023/06/05"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2305.13164"
+    ],
+    "citation_arxiv_id": [
+      "2305.13164"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

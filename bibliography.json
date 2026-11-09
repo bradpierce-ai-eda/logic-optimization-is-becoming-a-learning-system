@@ -1,0 +1,3017 @@
+{
+  "schema_version": "2.0",
+  "publication_doi": "10.5281/zenodo.22837235",
+  "slots": [
+    {
+      "slot": 1,
+      "work_id": "work-001",
+      "published_reference": "[1] Abdelrahman Hosny, Soheil Hashemi, Mohamed Shalan, and Sherief Reda. DRiLLS: Deep Reinforcement Learning for Logic Synthesis. ASP-DAC 2020.",
+      "linked_title": "DRiLLS: Deep Reinforcement Learning for Logic Synthesis",
+      "linked_url": "https://arxiv.org/abs/1911.04021",
+      "all_linked_targets": [
+        {
+          "text": "DRiLLS: Deep Reinforcement Learning for Logic Synthesis",
+          "url": "https://arxiv.org/abs/1911.04021"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref01"
+    },
+    {
+      "slot": 2,
+      "work_id": "work-002",
+      "published_reference": "[2] Animesh Basak Chowdhury, Marco Romanelli, Benjamin Tan, Ramesh Karri, and Siddharth Garg. INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search. Preprint 2023.",
+      "linked_title": "INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search",
+      "linked_url": "https://arxiv.org/abs/2305.13164",
+      "all_linked_targets": [
+        {
+          "text": "INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search",
+          "url": "https://arxiv.org/abs/2305.13164"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref02"
+    },
+    {
+      "slot": 3,
+      "work_id": "work-003",
+      "published_reference": "[3] Yiting Wang and colleagues. SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning. Preprint 2025.",
+      "linked_title": "SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning",
+      "linked_url": "https://arxiv.org/abs/2504.10369",
+      "all_linked_targets": [
+        {
+          "text": "SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning",
+          "url": "https://arxiv.org/abs/2504.10369"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref03"
+    },
+    {
+      "slot": 4,
+      "work_id": "work-004",
+      "published_reference": "[4] Yao Lu and colleagues. A New Benchmark for the Appropriate Evaluation of RTL Code Optimization. Preprint 2026.",
+      "linked_title": "A New Benchmark for the Appropriate Evaluation of RTL Code Optimization",
+      "linked_url": "https://arxiv.org/abs/2601.01765",
+      "all_linked_targets": [
+        {
+          "text": "A New Benchmark for the Appropriate Evaluation of RTL Code Optimization",
+          "url": "https://arxiv.org/abs/2601.01765"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref04"
+    },
+    {
+      "slot": 5,
+      "work_id": "work-005",
+      "published_reference": "[5] Wenji Fang and colleagues. Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement. Preprint 2026.",
+      "linked_title": "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement",
+      "linked_url": "https://arxiv.org/abs/2604.14989",
+      "all_linked_targets": [
+        {
+          "text": "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement",
+          "url": "https://arxiv.org/abs/2604.14989"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref05"
+    },
+    {
+      "slot": 6,
+      "work_id": "work-006",
+      "published_reference": "[6] Cunxi Yu and Haoxing Ren. Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC. Preprint 2026.",
+      "linked_title": "Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC",
+      "linked_url": "https://arxiv.org/abs/2604.15082",
+      "all_linked_targets": [
+        {
+          "text": "Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC",
+          "url": "https://arxiv.org/abs/2604.15082"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref06"
+    },
+    {
+      "slot": 7,
+      "work_id": "work-007",
+      "published_reference": "[7] Yiting Wang and colleagues. MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend-Aware Synthesis Optimization. Preprint 2025.",
+      "linked_title": "MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend-Aware Synthesis Optimization",
+      "linked_url": "https://arxiv.org/abs/2507.19570",
+      "all_linked_targets": [
+        {
+          "text": "MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend-Aware Synthesis Optimization",
+          "url": "https://arxiv.org/abs/2507.19570"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref07"
+    },
+    {
+      "slot": 8,
+      "work_id": "work-008",
+      "published_reference": "[8] Kunlong Li, Shangshang Yao, Su Zheng, and Lingli Wang. StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful Closed-Loop Process. Preprint 2026.",
+      "linked_title": "StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful Closed-Loop Process",
+      "linked_url": "https://arxiv.org/abs/2608.23601",
+      "all_linked_targets": [
+        {
+          "text": "StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful Closed-Loop Process",
+          "url": "https://arxiv.org/abs/2608.23601"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref08"
+    },
+    {
+      "slot": 9,
+      "work_id": "work-009",
+      "published_reference": "[9] Chen Chen, Guangyu Hu, Cunxi Yu, Yuzhe Ma, and Hongce Zhang. E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis. Preprint 2025.",
+      "linked_title": "E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis",
+      "linked_url": "https://arxiv.org/abs/2504.11574",
+      "all_linked_targets": [
+        {
+          "text": "E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis",
+          "url": "https://arxiv.org/abs/2504.11574"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref09"
+    },
+    {
+      "slot": 10,
+      "work_id": "work-010",
+      "published_reference": "[10] Ross Tate, Michael Stepp, Zachary Tatlock, and Sorin Lerner. Equality Saturation: A New Approach to Optimization. 2010.",
+      "linked_title": "Equality Saturation: A New Approach to Optimization",
+      "linked_url": "https://arxiv.org/abs/1012.1802",
+      "all_linked_targets": [
+        {
+          "text": "Equality Saturation: A New Approach to Optimization",
+          "url": "https://arxiv.org/abs/1012.1802"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref10"
+    },
+    {
+      "slot": 11,
+      "work_id": "work-011",
+      "published_reference": "[11] Chris Lattner and colleagues. MLIR: A Compiler Infrastructure for the End of Moore's Law. 2020.",
+      "linked_title": "MLIR: A Compiler Infrastructure for the End of Moore's Law",
+      "linked_url": "https://arxiv.org/abs/2002.11054",
+      "all_linked_targets": [
+        {
+          "text": "MLIR: A Compiler Infrastructure for the End of Moore's Law",
+          "url": "https://arxiv.org/abs/2002.11054"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref11"
+    },
+    {
+      "slot": 12,
+      "work_id": "work-012",
+      "published_reference": "[12] Vu Le, Daniel Perelman, Oleksandr Polozov, Mohammad Raza, Abhishek Udupa, and Sumit Gulwani. Interactive Program Synthesis. POPL 2017.",
+      "linked_title": "Interactive Program Synthesis",
+      "linked_url": "https://arxiv.org/abs/1703.03539",
+      "all_linked_targets": [
+        {
+          "text": "Interactive Program Synthesis",
+          "url": "https://arxiv.org/abs/1703.03539"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref12"
+    },
+    {
+      "slot": 13,
+      "work_id": "work-013",
+      "published_reference": "[13] Ashish Tiwari, Arjun Radhakrishna, Sumit Gulwani, and Daniel Perelman. Information-theoretic User Interaction: Significant Inputs for Program Synthesis. 2020.",
+      "linked_title": "Information-theoretic User Interaction: Significant Inputs for Program Synthesis",
+      "linked_url": "https://arxiv.org/abs/2006.12638",
+      "all_linked_targets": [
+        {
+          "text": "Information-theoretic User Interaction: Significant Inputs for Program Synthesis",
+          "url": "https://arxiv.org/abs/2006.12638"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref13"
+    },
+    {
+      "slot": 14,
+      "work_id": "work-014",
+      "published_reference": "[14] Haolin Pan, Lianghong Huang, Jinyuan Dong, Mingjie Xing, and Yanjun Wu. ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization. Preprint 2026.",
+      "linked_title": "ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization",
+      "linked_url": "https://arxiv.org/abs/2602.00087",
+      "all_linked_targets": [
+        {
+          "text": "ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization",
+          "url": "https://arxiv.org/abs/2602.00087"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref14"
+    },
+    {
+      "slot": 15,
+      "work_id": "work-015",
+      "published_reference": "[15] Liwen Jiang, Andrew B Kahng, Zhiang Wang, and Zhiyu Zheng. [Invited] Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research. Preprint 2026.",
+      "linked_title": "[Invited] Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research",
+      "linked_url": "https://arxiv.org/abs/2601.17520",
+      "all_linked_targets": [
+        {
+          "text": "[Invited] Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research",
+          "url": "https://arxiv.org/abs/2601.17520"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref15"
+    },
+    {
+      "slot": 16,
+      "work_id": "work-016",
+      "published_reference": "[16] Liwei Ni and colleagues. OpenLS-DGF: An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis. Preprint 2024.",
+      "linked_title": "OpenLS-DGF: An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis",
+      "linked_url": "https://arxiv.org/abs/2411.09422",
+      "all_linked_targets": [
+        {
+          "text": "OpenLS-DGF: An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis",
+          "url": "https://arxiv.org/abs/2411.09422"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref16"
+    },
+    {
+      "slot": 17,
+      "work_id": "work-017",
+      "published_reference": "[17] Albert Benveniste, Benoit Caillaud, and Roberto Passerone. A Generic Model of Contracts for Embedded Systems. 2007.",
+      "linked_title": "A Generic Model of Contracts for Embedded Systems",
+      "linked_url": "https://arxiv.org/abs/0706.1456",
+      "all_linked_targets": [
+        {
+          "text": "A Generic Model of Contracts for Embedded Systems",
+          "url": "https://arxiv.org/abs/0706.1456"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref17"
+    },
+    {
+      "slot": 18,
+      "work_id": "work-018",
+      "published_reference": "[18] Inigo Incer and colleagues. Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design. 2023.",
+      "linked_title": "Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design",
+      "linked_url": "https://arxiv.org/abs/2303.17751",
+      "all_linked_targets": [
+        {
+          "text": "Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design",
+          "url": "https://arxiv.org/abs/2303.17751"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref18"
+    },
+    {
+      "slot": 19,
+      "work_id": "work-019",
+      "published_reference": "[19] Jinyuan Deng and colleagues. Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows. Preprint 2026.",
+      "linked_title": "Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows",
+      "linked_url": "https://arxiv.org/abs/2607.17528",
+      "all_linked_targets": [
+        {
+          "text": "Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows",
+          "url": "https://arxiv.org/abs/2607.17528"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref19"
+    },
+    {
+      "slot": 20,
+      "work_id": "work-020",
+      "published_reference": "[20] Subhasish Mitra, Sanjit A. Seshia, and Nicola Nicolici. Post-Silicon Validation: Opportunities, Challenges and Recent Advances. DAC 2010.",
+      "linked_title": "Post-Silicon Validation: Opportunities, Challenges and Recent Advances",
+      "linked_url": "https://doi.org/10.1145/1837274.1837280",
+      "all_linked_targets": [
+        {
+          "text": "Post-Silicon Validation: Opportunities, Challenges and Recent Advances",
+          "url": "https://doi.org/10.1145/1837274.1837280"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref20"
+    },
+    {
+      "slot": 21,
+      "work_id": "work-021",
+      "published_reference": "[21] Kip Killpack, Chandramouli V. Kashyap, and Eli Chiprout. Silicon Speedpath Measurement and Feedback into EDA Flows. DAC 2007.",
+      "linked_title": "Silicon Speedpath Measurement and Feedback into EDA Flows",
+      "linked_url": "https://doi.org/10.1145/1278480.1278581",
+      "all_linked_targets": [
+        {
+          "text": "Silicon Speedpath Measurement and Feedback into EDA Flows",
+          "url": "https://doi.org/10.1145/1278480.1278581"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref21"
+    },
+    {
+      "slot": 22,
+      "work_id": "work-022",
+      "published_reference": "[22] Eshan Singh, Clark Barrett, and Subhasish Mitra. E-QED: Electrical Bug Localization During Post-Silicon Validation Enabled by Quick Error Detection and Formal Methods. 2017.",
+      "linked_title": "E-QED: Electrical Bug Localization During Post-Silicon Validation Enabled by Quick Error Detection and Formal Methods",
+      "linked_url": "https://arxiv.org/abs/1707.07671",
+      "all_linked_targets": [
+        {
+          "text": "E-QED: Electrical Bug Localization During Post-Silicon Validation Enabled by Quick Error Detection and Formal Methods",
+          "url": "https://arxiv.org/abs/1707.07671"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref22"
+    },
+    {
+      "slot": 23,
+      "work_id": "work-023",
+      "published_reference": "[23] Subhasish Mitra and colleagues. Silent Data Corruption by 10× Test Escapes Threatens Reliable Computing. 2025.",
+      "linked_title": "Silent Data Corruption by 10× Test Escapes Threatens Reliable Computing",
+      "linked_url": "https://arxiv.org/abs/2508.01786",
+      "all_linked_targets": [
+        {
+          "text": "Silent Data Corruption by 10× Test Escapes Threatens Reliable Computing",
+          "url": "https://arxiv.org/abs/2508.01786"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref23"
+    },
+    {
+      "slot": 24,
+      "work_id": "work-024",
+      "published_reference": "[24] Kirthevasan Kandasamy, Gautam Dasarathy, Jeff Schneider, and Barnabás Póczos. Multi-fidelity Bayesian Optimisation with Continuous Approximations. ICML 2017, Proceedings of Machine Learning Research 70:1799–1808.",
+      "linked_title": "Multi-fidelity Bayesian Optimisation with Continuous Approximations",
+      "linked_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+      "all_linked_targets": [
+        {
+          "text": "Multi-fidelity Bayesian Optimisation with Continuous Approximations",
+          "url": "https://proceedings.mlr.press/v70/kandasamy17a.html"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref24"
+    },
+    {
+      "slot": 25,
+      "work_id": "work-025",
+      "published_reference": "[25] Gabriel Szulanski. Exploring Internal Stickiness: Impediments to the Transfer of Best Practice Within the Firm. Strategic Management Journal 17(S2):27–43, 1996.",
+      "linked_title": "Exploring Internal Stickiness: Impediments to the Transfer of Best Practice Within the Firm",
+      "linked_url": "https://doi.org/10.1002/smj.4250171105",
+      "all_linked_targets": [
+        {
+          "text": "Exploring Internal Stickiness: Impediments to the Transfer of Best Practice Within the Firm",
+          "url": "https://doi.org/10.1002/smj.4250171105"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref25"
+    },
+    {
+      "slot": 26,
+      "work_id": "work-026",
+      "published_reference": "[26] J. Stuart Bunderson and Ray E. Reagans. Power, Status, and Learning in Organizations. Organization Science 22(5):1182–1194, 2011.",
+      "linked_title": "Power, Status, and Learning in Organizations",
+      "linked_url": "https://doi.org/10.1287/orsc.1100.0590",
+      "all_linked_targets": [
+        {
+          "text": "Power, Status, and Learning in Organizations",
+          "url": "https://doi.org/10.1287/orsc.1100.0590"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref26"
+    },
+    {
+      "slot": 27,
+      "work_id": "work-027",
+      "published_reference": "[27] Scott Rose, Oliver Borchert, Stu Mitchell, and Sean Connelly. Zero Trust Architecture. NIST Special Publication 800-207, 2020.",
+      "linked_title": "Zero Trust Architecture",
+      "linked_url": "https://doi.org/10.6028/NIST.SP.800-207",
+      "all_linked_targets": [
+        {
+          "text": "Zero Trust Architecture",
+          "url": "https://doi.org/10.6028/NIST.SP.800-207"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref27"
+    },
+    {
+      "slot": 28,
+      "work_id": "work-028",
+      "published_reference": "[28] Matthew Beane. Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail. Administrative Science Quarterly 64(1):87–123, 2019.",
+      "linked_title": "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail",
+      "linked_url": "https://doi.org/10.1177/0001839217751692",
+      "all_linked_targets": [
+        {
+          "text": "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail",
+          "url": "https://doi.org/10.1177/0001839217751692"
+        }
+      ],
+      "normalization_level": "Primary authority metadata retrieved; published reference unchanged",
+      "classification": "single-work",
+      "citekey": "Pierce2026Ref28"
+    }
+  ],
+  "works": [
+    {
+      "work_id": "work-001",
+      "citekey": "Pierce2026Ref01",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref01",
+        "type": "article",
+        "title": "DRiLLS: Deep Reinforcement Learning for Logic Synthesis",
+        "author": [
+          {
+            "family": "Hosny",
+            "given": "Abdelrahman"
+          },
+          {
+            "family": "Hashemi",
+            "given": "Soheil"
+          },
+          {
+            "family": "Shalan",
+            "given": "Mohamed"
+          },
+          {
+            "family": "Reda",
+            "given": "Sherief"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/1911.04021",
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              11
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "1911.04021",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/1911.04021",
+          "response_sha256": "2130136373ea7b3147aa79da2a7ddeb2aa9014634280fceca259ed9c94cbc10c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/1911.04021",
+          "response_sha256": "2130136373ea7b3147aa79da2a7ddeb2aa9014634280fceca259ed9c94cbc10c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/1911.04021",
+          "response_sha256": "2130136373ea7b3147aa79da2a7ddeb2aa9014634280fceca259ed9c94cbc10c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/1911.04021",
+          "response_sha256": "2130136373ea7b3147aa79da2a7ddeb2aa9014634280fceca259ed9c94cbc10c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/1911.04021",
+          "response_sha256": "2130136373ea7b3147aa79da2a7ddeb2aa9014634280fceca259ed9c94cbc10c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/1911.04021",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/1-audit.json",
+      "adjudications": [
+        "Published slot names ASP-DAC 2020; linked arXiv record is a 2019 preprint. Normalized object identifies the linked preprint; no conference date is installed into that preprint."
+      ]
+    },
+    {
+      "work_id": "work-002",
+      "citekey": "Pierce2026Ref02",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref02",
+        "type": "article",
+        "title": "INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search",
+        "author": [
+          {
+            "family": "Chowdhury",
+            "given": "Animesh Basak"
+          },
+          {
+            "family": "Romanelli",
+            "given": "Marco"
+          },
+          {
+            "family": "Tan",
+            "given": "Benjamin"
+          },
+          {
+            "family": "Karri",
+            "given": "Ramesh"
+          },
+          {
+            "family": "Garg",
+            "given": "Siddharth"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2305.13164",
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              22
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2305.13164",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2305.13164",
+          "response_sha256": "6c7910b7feff95e120fb6e2470c82af30173f74f79dd19b2eb08e7bb650dbad7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2305.13164",
+          "response_sha256": "6c7910b7feff95e120fb6e2470c82af30173f74f79dd19b2eb08e7bb650dbad7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2305.13164",
+          "response_sha256": "6c7910b7feff95e120fb6e2470c82af30173f74f79dd19b2eb08e7bb650dbad7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2305.13164",
+          "response_sha256": "6c7910b7feff95e120fb6e2470c82af30173f74f79dd19b2eb08e7bb650dbad7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2305.13164",
+          "response_sha256": "6c7910b7feff95e120fb6e2470c82af30173f74f79dd19b2eb08e7bb650dbad7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2305.13164",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/2-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-003",
+      "citekey": "Pierce2026Ref03",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref03",
+        "type": "article",
+        "title": "SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning",
+        "author": [
+          {
+            "family": "Wang",
+            "given": "Yiting"
+          },
+          {
+            "family": "Ye",
+            "given": "Wanghao"
+          },
+          {
+            "family": "Guo",
+            "given": "Ping"
+          },
+          {
+            "family": "He",
+            "given": "Yexiao"
+          },
+          {
+            "family": "Wang",
+            "given": "Ziyao"
+          },
+          {
+            "family": "Tian",
+            "given": "Bowei"
+          },
+          {
+            "family": "He",
+            "given": "Shwai"
+          },
+          {
+            "family": "Sun",
+            "given": "Guoheng"
+          },
+          {
+            "family": "Shen",
+            "given": "Zheyu"
+          },
+          {
+            "family": "Chen",
+            "given": "Sihan"
+          },
+          {
+            "family": "Srivastava",
+            "given": "Ankur"
+          },
+          {
+            "family": "Zhang",
+            "given": "Qingfu"
+          },
+          {
+            "family": "Qu",
+            "given": "Gang"
+          },
+          {
+            "family": "Li",
+            "given": "Ang"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2504.10369",
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              14
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2504.10369",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2504.10369",
+          "response_sha256": "2b22542d11d54361b93e9096d0357f84a114b14ba07db6c95983dbba0790ed3a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2504.10369",
+          "response_sha256": "2b22542d11d54361b93e9096d0357f84a114b14ba07db6c95983dbba0790ed3a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2504.10369",
+          "response_sha256": "2b22542d11d54361b93e9096d0357f84a114b14ba07db6c95983dbba0790ed3a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2504.10369",
+          "response_sha256": "2b22542d11d54361b93e9096d0357f84a114b14ba07db6c95983dbba0790ed3a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2504.10369",
+          "response_sha256": "2b22542d11d54361b93e9096d0357f84a114b14ba07db6c95983dbba0790ed3a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2504.10369",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/3-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-004",
+      "citekey": "Pierce2026Ref04",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref04",
+        "type": "article",
+        "title": "A New Benchmark for the Appropriate Evaluation of RTL Code Optimization",
+        "author": [
+          {
+            "family": "Lu",
+            "given": "Yao"
+          },
+          {
+            "family": "Liu",
+            "given": "Shang"
+          },
+          {
+            "family": "Zhou",
+            "given": "Hangan"
+          },
+          {
+            "family": "Fang",
+            "given": "Wenji"
+          },
+          {
+            "family": "Zhang",
+            "given": "Qijun"
+          },
+          {
+            "family": "Xie",
+            "given": "Zhiyao"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2601.01765",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              5
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2601.01765",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2601.01765",
+          "response_sha256": "d2d5d94f2c4eda7613dd91748f535c77630622861acf75107d78bf6cbd57d791",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2601.01765",
+          "response_sha256": "d2d5d94f2c4eda7613dd91748f535c77630622861acf75107d78bf6cbd57d791",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2601.01765",
+          "response_sha256": "d2d5d94f2c4eda7613dd91748f535c77630622861acf75107d78bf6cbd57d791",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2601.01765",
+          "response_sha256": "d2d5d94f2c4eda7613dd91748f535c77630622861acf75107d78bf6cbd57d791",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2601.01765",
+          "response_sha256": "d2d5d94f2c4eda7613dd91748f535c77630622861acf75107d78bf6cbd57d791",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2601.01765",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/4-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-005",
+      "citekey": "Pierce2026Ref05",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref05",
+        "type": "article",
+        "title": "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement",
+        "author": [
+          {
+            "family": "Fang",
+            "given": "Wenji"
+          },
+          {
+            "family": "Lu",
+            "given": "Yao"
+          },
+          {
+            "family": "Liu",
+            "given": "Shang"
+          },
+          {
+            "family": "Wang",
+            "given": "Jing"
+          },
+          {
+            "family": "Guo",
+            "given": "Ziyan"
+          },
+          {
+            "family": "He",
+            "given": "Junxian"
+          },
+          {
+            "family": "Tu",
+            "given": "Fengbin"
+          },
+          {
+            "family": "Xie",
+            "given": "Zhiyao"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2604.14989",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2604.14989",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2604.14989",
+          "response_sha256": "c35d0266fa430bc59aabe273012390c8fa9e0765c99c4803c27523d751e4739c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2604.14989",
+          "response_sha256": "c35d0266fa430bc59aabe273012390c8fa9e0765c99c4803c27523d751e4739c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2604.14989",
+          "response_sha256": "c35d0266fa430bc59aabe273012390c8fa9e0765c99c4803c27523d751e4739c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2604.14989",
+          "response_sha256": "c35d0266fa430bc59aabe273012390c8fa9e0765c99c4803c27523d751e4739c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2604.14989",
+          "response_sha256": "c35d0266fa430bc59aabe273012390c8fa9e0765c99c4803c27523d751e4739c",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2604.14989",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/5-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-006",
+      "citekey": "Pierce2026Ref06",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref06",
+        "type": "article",
+        "title": "Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC",
+        "author": [
+          {
+            "family": "Yu",
+            "given": "Cunxi"
+          },
+          {
+            "family": "Ren",
+            "given": "Haoxing"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2604.15082",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2604.15082",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2604.15082",
+          "response_sha256": "8812d39da53e3f564d3a8d81a5935647f595584f33501556070b9d06a78837fe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2604.15082",
+          "response_sha256": "8812d39da53e3f564d3a8d81a5935647f595584f33501556070b9d06a78837fe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2604.15082",
+          "response_sha256": "8812d39da53e3f564d3a8d81a5935647f595584f33501556070b9d06a78837fe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2604.15082",
+          "response_sha256": "8812d39da53e3f564d3a8d81a5935647f595584f33501556070b9d06a78837fe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2604.15082",
+          "response_sha256": "8812d39da53e3f564d3a8d81a5935647f595584f33501556070b9d06a78837fe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2604.15082",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/6-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-007",
+      "citekey": "Pierce2026Ref07",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref07",
+        "type": "article",
+        "title": "MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend Aware Synthesis Optimization",
+        "author": [
+          {
+            "family": "Wang",
+            "given": "Yiting"
+          },
+          {
+            "family": "Ye",
+            "given": "Wanghao"
+          },
+          {
+            "family": "He",
+            "given": "Yexiao"
+          },
+          {
+            "family": "Chen",
+            "given": "Yiran"
+          },
+          {
+            "family": "Qu",
+            "given": "Gang"
+          },
+          {
+            "family": "Li",
+            "given": "Ang"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2507.19570",
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              25
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2507.19570",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2507.19570",
+          "response_sha256": "3007083fefbdf2d6870c982f12f2dfb397217d703c382830e5f2f747b9159aa0",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2507.19570",
+          "response_sha256": "3007083fefbdf2d6870c982f12f2dfb397217d703c382830e5f2f747b9159aa0",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2507.19570",
+          "response_sha256": "3007083fefbdf2d6870c982f12f2dfb397217d703c382830e5f2f747b9159aa0",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2507.19570",
+          "response_sha256": "3007083fefbdf2d6870c982f12f2dfb397217d703c382830e5f2f747b9159aa0",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2507.19570",
+          "response_sha256": "3007083fefbdf2d6870c982f12f2dfb397217d703c382830e5f2f747b9159aa0",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2507.19570",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/7-audit.json",
+      "adjudications": [
+        "Authority title punctuation/typography differs from the exact published string. Authority title is installed only in normalized exports."
+      ]
+    },
+    {
+      "work_id": "work-008",
+      "citekey": "Pierce2026Ref08",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref08",
+        "type": "article",
+        "title": "StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful, Closed-Loop Process",
+        "author": [
+          {
+            "family": "Li",
+            "given": "Kunlong"
+          },
+          {
+            "family": "Yao",
+            "given": "Shangshang"
+          },
+          {
+            "family": "Zheng",
+            "given": "Su"
+          },
+          {
+            "family": "Wang",
+            "given": "Lingli"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2608.23601",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              19
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2608.23601",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2608.23601",
+          "response_sha256": "09ed5c89ba69218e1cce793defa7826a7de85bbf915efb59bf76434eb1169d13",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2608.23601",
+          "response_sha256": "09ed5c89ba69218e1cce793defa7826a7de85bbf915efb59bf76434eb1169d13",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2608.23601",
+          "response_sha256": "09ed5c89ba69218e1cce793defa7826a7de85bbf915efb59bf76434eb1169d13",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2608.23601",
+          "response_sha256": "09ed5c89ba69218e1cce793defa7826a7de85bbf915efb59bf76434eb1169d13",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2608.23601",
+          "response_sha256": "09ed5c89ba69218e1cce793defa7826a7de85bbf915efb59bf76434eb1169d13",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2608.23601",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/8-audit.json",
+      "adjudications": [
+        "Authority title punctuation/typography differs from the exact published string. Authority title is installed only in normalized exports.",
+        "arXiv supplies a linked journal/proceedings DOI. It is retained in authority evidence; the normalized object stays the linked preprint, without mixing journal date/container fields."
+      ]
+    },
+    {
+      "work_id": "work-009",
+      "citekey": "Pierce2026Ref09",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref09",
+        "type": "article",
+        "title": "E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis",
+        "author": [
+          {
+            "family": "Chen",
+            "given": "Chen"
+          },
+          {
+            "family": "HU",
+            "given": "Guangyu"
+          },
+          {
+            "family": "Yu",
+            "given": "Cunxi"
+          },
+          {
+            "family": "Ma",
+            "given": "Yuzhe"
+          },
+          {
+            "family": "Zhang",
+            "given": "Hongce"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2504.11574",
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              15
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2504.11574",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2504.11574",
+          "response_sha256": "96b77f42f32895cfb3b6a452052b2ee3baf53e2d747bbb20c1d6420817ee0aae",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2504.11574",
+          "response_sha256": "96b77f42f32895cfb3b6a452052b2ee3baf53e2d747bbb20c1d6420817ee0aae",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2504.11574",
+          "response_sha256": "96b77f42f32895cfb3b6a452052b2ee3baf53e2d747bbb20c1d6420817ee0aae",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2504.11574",
+          "response_sha256": "96b77f42f32895cfb3b6a452052b2ee3baf53e2d747bbb20c1d6420817ee0aae",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2504.11574",
+          "response_sha256": "96b77f42f32895cfb3b6a452052b2ee3baf53e2d747bbb20c1d6420817ee0aae",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2504.11574",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/9-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-010",
+      "citekey": "Pierce2026Ref10",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref10",
+        "type": "article",
+        "title": "Equality Saturation: A New Approach to Optimization",
+        "author": [
+          {
+            "family": "Tate",
+            "given": "Ross"
+          },
+          {
+            "family": "Stepp",
+            "given": "Michael"
+          },
+          {
+            "family": "Tatlock",
+            "given": "Zachary"
+          },
+          {
+            "family": "Lerner",
+            "given": "Sorin"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/1012.1802",
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              2
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "1012.1802",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/1012.1802",
+          "response_sha256": "750ca3bc55bb64bc3dda914ef67971a7cc722fa648f12da4f2e45b4eb8e56024",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/1012.1802",
+          "response_sha256": "750ca3bc55bb64bc3dda914ef67971a7cc722fa648f12da4f2e45b4eb8e56024",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/1012.1802",
+          "response_sha256": "750ca3bc55bb64bc3dda914ef67971a7cc722fa648f12da4f2e45b4eb8e56024",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/1012.1802",
+          "response_sha256": "750ca3bc55bb64bc3dda914ef67971a7cc722fa648f12da4f2e45b4eb8e56024",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/1012.1802",
+          "response_sha256": "750ca3bc55bb64bc3dda914ef67971a7cc722fa648f12da4f2e45b4eb8e56024",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/1012.1802",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/10-audit.json",
+      "adjudications": [
+        "arXiv supplies a linked journal/proceedings DOI. It is retained in authority evidence; the normalized object stays the linked preprint, without mixing journal date/container fields."
+      ]
+    },
+    {
+      "work_id": "work-011",
+      "citekey": "Pierce2026Ref11",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref11",
+        "type": "article",
+        "title": "MLIR: A Compiler Infrastructure for the End of Moore's Law",
+        "author": [
+          {
+            "family": "Lattner",
+            "given": "Chris"
+          },
+          {
+            "family": "Amini",
+            "given": "Mehdi"
+          },
+          {
+            "family": "Bondhugula",
+            "given": "Uday"
+          },
+          {
+            "family": "Cohen",
+            "given": "Albert"
+          },
+          {
+            "family": "Davis",
+            "given": "Andy"
+          },
+          {
+            "family": "Pienaar",
+            "given": "Jacques"
+          },
+          {
+            "family": "Riddle",
+            "given": "River"
+          },
+          {
+            "family": "Shpeisman",
+            "given": "Tatiana"
+          },
+          {
+            "family": "Vasilache",
+            "given": "Nicolas"
+          },
+          {
+            "family": "Zinenko",
+            "given": "Oleksandr"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2002.11054",
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              25
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2002.11054",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2002.11054",
+          "response_sha256": "b64addd8ec831be45e61272ef2b5f8eaa747b243fa0999f15e3aca93732a5450",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2002.11054",
+          "response_sha256": "b64addd8ec831be45e61272ef2b5f8eaa747b243fa0999f15e3aca93732a5450",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2002.11054",
+          "response_sha256": "b64addd8ec831be45e61272ef2b5f8eaa747b243fa0999f15e3aca93732a5450",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2002.11054",
+          "response_sha256": "b64addd8ec831be45e61272ef2b5f8eaa747b243fa0999f15e3aca93732a5450",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2002.11054",
+          "response_sha256": "b64addd8ec831be45e61272ef2b5f8eaa747b243fa0999f15e3aca93732a5450",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2002.11054",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/11-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-012",
+      "citekey": "Pierce2026Ref12",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref12",
+        "type": "article",
+        "title": "Interactive Program Synthesis",
+        "author": [
+          {
+            "family": "Le",
+            "given": "Vu"
+          },
+          {
+            "family": "Perelman",
+            "given": "Daniel"
+          },
+          {
+            "family": "Polozov",
+            "given": "Oleksandr"
+          },
+          {
+            "family": "Raza",
+            "given": "Mohammad"
+          },
+          {
+            "family": "Udupa",
+            "given": "Abhishek"
+          },
+          {
+            "family": "Gulwani",
+            "given": "Sumit"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/1703.03539",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              10
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "1703.03539",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/1703.03539",
+          "response_sha256": "10ff40e9314b52cc0253148d97e2551d7bd4ae8ba0220cac05ca7fe7767de76e",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/1703.03539",
+          "response_sha256": "10ff40e9314b52cc0253148d97e2551d7bd4ae8ba0220cac05ca7fe7767de76e",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/1703.03539",
+          "response_sha256": "10ff40e9314b52cc0253148d97e2551d7bd4ae8ba0220cac05ca7fe7767de76e",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/1703.03539",
+          "response_sha256": "10ff40e9314b52cc0253148d97e2551d7bd4ae8ba0220cac05ca7fe7767de76e",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/1703.03539",
+          "response_sha256": "10ff40e9314b52cc0253148d97e2551d7bd4ae8ba0220cac05ca7fe7767de76e",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/1703.03539",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/12-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-013",
+      "citekey": "Pierce2026Ref13",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref13",
+        "type": "article",
+        "title": "Information-theoretic User Interaction: Significant Inputs for Program Synthesis",
+        "author": [
+          {
+            "family": "Tiwari",
+            "given": "Ashish"
+          },
+          {
+            "family": "Radhakrishna",
+            "given": "Arjun"
+          },
+          {
+            "family": "Gulwani",
+            "given": "Sumit"
+          },
+          {
+            "family": "Perelman",
+            "given": "Daniel"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2006.12638",
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              22
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2006.12638",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2006.12638",
+          "response_sha256": "8b7c6b579df8eced550c8e0f05069a5237614b49cd4d853016b9c37b74a94d09",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2006.12638",
+          "response_sha256": "8b7c6b579df8eced550c8e0f05069a5237614b49cd4d853016b9c37b74a94d09",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2006.12638",
+          "response_sha256": "8b7c6b579df8eced550c8e0f05069a5237614b49cd4d853016b9c37b74a94d09",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2006.12638",
+          "response_sha256": "8b7c6b579df8eced550c8e0f05069a5237614b49cd4d853016b9c37b74a94d09",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2006.12638",
+          "response_sha256": "8b7c6b579df8eced550c8e0f05069a5237614b49cd4d853016b9c37b74a94d09",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2006.12638",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/13-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-014",
+      "citekey": "Pierce2026Ref14",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref14",
+        "type": "article",
+        "title": "ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization",
+        "author": [
+          {
+            "family": "Pan",
+            "given": "Haolin"
+          },
+          {
+            "family": "Huang",
+            "given": "Lianghong"
+          },
+          {
+            "family": "Dong",
+            "given": "Jinyuan"
+          },
+          {
+            "family": "Xing",
+            "given": "Mingjie"
+          },
+          {
+            "family": "Wu",
+            "given": "Yanjun"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2602.00087",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              23
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2602.00087",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2602.00087",
+          "response_sha256": "c08b8acc672991f791052f57ece4f1ea8d6d5d003a4df0b2511b1e72d1f16efe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2602.00087",
+          "response_sha256": "c08b8acc672991f791052f57ece4f1ea8d6d5d003a4df0b2511b1e72d1f16efe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2602.00087",
+          "response_sha256": "c08b8acc672991f791052f57ece4f1ea8d6d5d003a4df0b2511b1e72d1f16efe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2602.00087",
+          "response_sha256": "c08b8acc672991f791052f57ece4f1ea8d6d5d003a4df0b2511b1e72d1f16efe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2602.00087",
+          "response_sha256": "c08b8acc672991f791052f57ece4f1ea8d6d5d003a4df0b2511b1e72d1f16efe",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2602.00087",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/14-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-015",
+      "citekey": "Pierce2026Ref15",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref15",
+        "type": "article",
+        "title": "Invited: Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research",
+        "author": [
+          {
+            "family": "Jiang",
+            "given": "Liwen"
+          },
+          {
+            "family": "Kahng",
+            "given": "Andrew B."
+          },
+          {
+            "family": "Wang",
+            "given": "Zhiang"
+          },
+          {
+            "family": "Zheng",
+            "given": "Zhiyu"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2601.17520",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              24
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2601.17520",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2601.17520",
+          "response_sha256": "35c132b44d8a4e1f715d8c53c612b2275fdf83db938f6c36ecc63463619b6bd7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2601.17520",
+          "response_sha256": "35c132b44d8a4e1f715d8c53c612b2275fdf83db938f6c36ecc63463619b6bd7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2601.17520",
+          "response_sha256": "35c132b44d8a4e1f715d8c53c612b2275fdf83db938f6c36ecc63463619b6bd7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2601.17520",
+          "response_sha256": "35c132b44d8a4e1f715d8c53c612b2275fdf83db938f6c36ecc63463619b6bd7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2601.17520",
+          "response_sha256": "35c132b44d8a4e1f715d8c53c612b2275fdf83db938f6c36ecc63463619b6bd7",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2601.17520",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/15-audit.json",
+      "adjudications": [
+        "Authority title punctuation/typography differs from the exact published string. Authority title is installed only in normalized exports.",
+        "arXiv supplies a linked journal/proceedings DOI. It is retained in authority evidence; the normalized object stays the linked preprint, without mixing journal date/container fields."
+      ]
+    },
+    {
+      "work_id": "work-016",
+      "citekey": "Pierce2026Ref16",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref16",
+        "type": "article",
+        "title": "OpenLS-DGF: An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis",
+        "author": [
+          {
+            "family": "Ni",
+            "given": "Liwei"
+          },
+          {
+            "family": "Wang",
+            "given": "Rui"
+          },
+          {
+            "family": "Liu",
+            "given": "Miao"
+          },
+          {
+            "family": "Meng",
+            "given": "Xingyu"
+          },
+          {
+            "family": "Lin",
+            "given": "Xiaoze"
+          },
+          {
+            "family": "Liu",
+            "given": "Junfeng"
+          },
+          {
+            "family": "Luo",
+            "given": "Guojie"
+          },
+          {
+            "family": "Chu",
+            "given": "Zhufei"
+          },
+          {
+            "family": "Qian",
+            "given": "Weikang"
+          },
+          {
+            "family": "Yang",
+            "given": "Xiaoyan"
+          },
+          {
+            "family": "Xie",
+            "given": "Biwei"
+          },
+          {
+            "family": "Li",
+            "given": "Xingquan"
+          },
+          {
+            "family": "Li",
+            "given": "Huawei"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2411.09422",
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              14
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2411.09422",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2411.09422",
+          "response_sha256": "c1917e623f5cb51d4b0920da9c45ea6d16c9722c037f57a9559f83e08d3782d1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2411.09422",
+          "response_sha256": "c1917e623f5cb51d4b0920da9c45ea6d16c9722c037f57a9559f83e08d3782d1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2411.09422",
+          "response_sha256": "c1917e623f5cb51d4b0920da9c45ea6d16c9722c037f57a9559f83e08d3782d1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2411.09422",
+          "response_sha256": "c1917e623f5cb51d4b0920da9c45ea6d16c9722c037f57a9559f83e08d3782d1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2411.09422",
+          "response_sha256": "c1917e623f5cb51d4b0920da9c45ea6d16c9722c037f57a9559f83e08d3782d1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2411.09422",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/16-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-017",
+      "citekey": "Pierce2026Ref17",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref17",
+        "type": "article",
+        "title": "A Generic Model of Contracts for Embedded Systems",
+        "author": [
+          {
+            "family": "Benveniste",
+            "given": "Albert"
+          },
+          {
+            "family": "Caillaud",
+            "given": "Benoit"
+          },
+          {
+            "family": "Passerone",
+            "given": "Roberto"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/0706.1456",
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              6,
+              11
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "0706.1456",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/0706.1456",
+          "response_sha256": "9b2cfd9c2dcf12e888780f6374341e3821cba408dbe0c8cacc4200392ad9c24a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/0706.1456",
+          "response_sha256": "9b2cfd9c2dcf12e888780f6374341e3821cba408dbe0c8cacc4200392ad9c24a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/0706.1456",
+          "response_sha256": "9b2cfd9c2dcf12e888780f6374341e3821cba408dbe0c8cacc4200392ad9c24a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/0706.1456",
+          "response_sha256": "9b2cfd9c2dcf12e888780f6374341e3821cba408dbe0c8cacc4200392ad9c24a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/0706.1456",
+          "response_sha256": "9b2cfd9c2dcf12e888780f6374341e3821cba408dbe0c8cacc4200392ad9c24a",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/0706.1456",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/17-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-018",
+      "citekey": "Pierce2026Ref18",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref18",
+        "type": "article",
+        "title": "Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design",
+        "author": [
+          {
+            "family": "Incer",
+            "given": "Inigo"
+          },
+          {
+            "family": "Badithela",
+            "given": "Apurva"
+          },
+          {
+            "family": "Graebener",
+            "given": "Josefine"
+          },
+          {
+            "family": "Mallozzi",
+            "given": "Piergiuseppe"
+          },
+          {
+            "family": "Pandey",
+            "given": "Ayush"
+          },
+          {
+            "family": "Yu",
+            "given": "Sheng-Jung"
+          },
+          {
+            "family": "Benveniste",
+            "given": "Albert"
+          },
+          {
+            "family": "Caillaud",
+            "given": "Benoit"
+          },
+          {
+            "family": "Murray",
+            "given": "Richard M."
+          },
+          {
+            "family": "Sangiovanni-Vincentelli",
+            "given": "Alberto"
+          },
+          {
+            "family": "Seshia",
+            "given": "Sanjit A."
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2303.17751",
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              31
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2303.17751",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2303.17751",
+          "response_sha256": "bcfa9973850e28538ca8510015710ec4a8c730aaef219a4e9d8035e5bc15b290",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2303.17751",
+          "response_sha256": "bcfa9973850e28538ca8510015710ec4a8c730aaef219a4e9d8035e5bc15b290",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2303.17751",
+          "response_sha256": "bcfa9973850e28538ca8510015710ec4a8c730aaef219a4e9d8035e5bc15b290",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2303.17751",
+          "response_sha256": "bcfa9973850e28538ca8510015710ec4a8c730aaef219a4e9d8035e5bc15b290",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2303.17751",
+          "response_sha256": "bcfa9973850e28538ca8510015710ec4a8c730aaef219a4e9d8035e5bc15b290",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2303.17751",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/18-audit.json",
+      "adjudications": [
+        "arXiv supplies a linked journal/proceedings DOI. It is retained in authority evidence; the normalized object stays the linked preprint, without mixing journal date/container fields."
+      ]
+    },
+    {
+      "work_id": "work-019",
+      "citekey": "Pierce2026Ref19",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref19",
+        "type": "article",
+        "title": "Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows",
+        "author": [
+          {
+            "family": "Deng",
+            "given": "Jinyuan"
+          },
+          {
+            "family": "Chen",
+            "given": "Zhengrui"
+          },
+          {
+            "family": "Wei",
+            "given": "Xufeng"
+          },
+          {
+            "family": "Xing",
+            "given": "Tianyu"
+          },
+          {
+            "family": "Wen",
+            "given": "Chenyi"
+          },
+          {
+            "family": "Sun",
+            "given": "Qi"
+          },
+          {
+            "family": "Zhuo",
+            "given": "Cheng"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2607.17528",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              20
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2607.17528",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2607.17528",
+          "response_sha256": "dbe19a8a996e58b508eec306cafdcd803d4b92198ed6035054f402d95d189457",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2607.17528",
+          "response_sha256": "dbe19a8a996e58b508eec306cafdcd803d4b92198ed6035054f402d95d189457",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2607.17528",
+          "response_sha256": "dbe19a8a996e58b508eec306cafdcd803d4b92198ed6035054f402d95d189457",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2607.17528",
+          "response_sha256": "dbe19a8a996e58b508eec306cafdcd803d4b92198ed6035054f402d95d189457",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2607.17528",
+          "response_sha256": "dbe19a8a996e58b508eec306cafdcd803d4b92198ed6035054f402d95d189457",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2607.17528",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/19-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-020",
+      "citekey": "Pierce2026Ref20",
+      "kind": "conference",
+      "csl": {
+        "id": "Pierce2026Ref20",
+        "type": "paper-conference",
+        "title": "Post-silicon validation opportunities, challenges and recent advances",
+        "author": [
+          {
+            "given": "Subhasish",
+            "family": "Mitra"
+          },
+          {
+            "given": "Sanjit A.",
+            "family": "Seshia"
+          },
+          {
+            "given": "Nicola",
+            "family": "Nicolici"
+          }
+        ],
+        "URL": "https://doi.org/10.1145/1837274.1837280",
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              13
+            ]
+          ]
+        },
+        "DOI": "10.1145/1837274.1837280",
+        "publisher": "ACM",
+        "container-title": "Proceedings of the 47th Design Automation Conference",
+        "page": "12-17",
+        "note": "Published print/proceedings version; exact original reference is retained separately."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+          "response_sha256": "5ec874d742654cfda9372a6c9b9ace3ccf613cc5ef84701c1cad673e9c6a3eb1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+          "response_sha256": "5ec874d742654cfda9372a6c9b9ace3ccf613cc5ef84701c1cad673e9c6a3eb1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+          "response_sha256": "5ec874d742654cfda9372a6c9b9ace3ccf613cc5ef84701c1cad673e9c6a3eb1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "DOI": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+          "response_sha256": "5ec874d742654cfda9372a6c9b9ace3ccf613cc5ef84701c1cad673e9c6a3eb1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "publisher": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+          "response_sha256": "5ec874d742654cfda9372a6c9b9ace3ccf613cc5ef84701c1cad673e9c6a3eb1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "container-title": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+          "response_sha256": "5ec874d742654cfda9372a6c9b9ace3ccf613cc5ef84701c1cad673e9c6a3eb1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "page": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+          "response_sha256": "5ec874d742654cfda9372a6c9b9ace3ccf613cc5ef84701c1cad673e9c6a3eb1",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://doi.org/10.1145/1837274.1837280",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/20-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-021",
+      "citekey": "Pierce2026Ref21",
+      "kind": "conference",
+      "csl": {
+        "id": "Pierce2026Ref21",
+        "type": "paper-conference",
+        "title": "Silicon speedpath measurement and feedback into EDA flows",
+        "author": [
+          {
+            "given": "Kip",
+            "family": "Killpack"
+          },
+          {
+            "given": "Chandramouli",
+            "family": "Kashyap"
+          },
+          {
+            "given": "Eli",
+            "family": "Chiprout"
+          }
+        ],
+        "URL": "https://doi.org/10.1145/1278480.1278581",
+        "issued": {
+          "date-parts": [
+            [
+              2007
+            ]
+          ]
+        },
+        "DOI": "10.1145/1278480.1278581",
+        "publisher": "ACM Press",
+        "container-title": "Proceedings of the 44th annual conference on Design automation - DAC '07",
+        "page": "390",
+        "note": "Published print/proceedings version; exact original reference is retained separately."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+          "response_sha256": "3fa80ace972f197e6ca3ab295ec7013d3bc88d5a57778f3c82b4c1cc38ac6547",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+          "response_sha256": "3fa80ace972f197e6ca3ab295ec7013d3bc88d5a57778f3c82b4c1cc38ac6547",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+          "response_sha256": "3fa80ace972f197e6ca3ab295ec7013d3bc88d5a57778f3c82b4c1cc38ac6547",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "DOI": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+          "response_sha256": "3fa80ace972f197e6ca3ab295ec7013d3bc88d5a57778f3c82b4c1cc38ac6547",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "publisher": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+          "response_sha256": "3fa80ace972f197e6ca3ab295ec7013d3bc88d5a57778f3c82b4c1cc38ac6547",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "container-title": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+          "response_sha256": "3fa80ace972f197e6ca3ab295ec7013d3bc88d5a57778f3c82b4c1cc38ac6547",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "page": {
+          "source_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+          "response_sha256": "3fa80ace972f197e6ca3ab295ec7013d3bc88d5a57778f3c82b4c1cc38ac6547",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://doi.org/10.1145/1278480.1278581",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/21-audit.json",
+      "adjudications": [
+        "Published author string includes Chandramouli V. Kashyap; Crossref supplies Chandramouli Kashyap. Registry name is used in normalized exports; published reference remains exact."
+      ]
+    },
+    {
+      "work_id": "work-022",
+      "citekey": "Pierce2026Ref22",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref22",
+        "type": "article",
+        "title": "E-QED: Electrical Bug Localization During Post-Silicon Validation Enabled by Quick Error Detection and Formal Methods",
+        "author": [
+          {
+            "family": "Singh",
+            "given": "Eshan"
+          },
+          {
+            "family": "Barrett",
+            "given": "Clark"
+          },
+          {
+            "family": "Mitra",
+            "given": "Subhasish"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/1707.07671",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              7,
+              23
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "1707.07671",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/1707.07671",
+          "response_sha256": "02a49fa9eb3fe10828e550bebd7273f2117a99f94d4992ecbab42daba7186771",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/1707.07671",
+          "response_sha256": "02a49fa9eb3fe10828e550bebd7273f2117a99f94d4992ecbab42daba7186771",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/1707.07671",
+          "response_sha256": "02a49fa9eb3fe10828e550bebd7273f2117a99f94d4992ecbab42daba7186771",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/1707.07671",
+          "response_sha256": "02a49fa9eb3fe10828e550bebd7273f2117a99f94d4992ecbab42daba7186771",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/1707.07671",
+          "response_sha256": "02a49fa9eb3fe10828e550bebd7273f2117a99f94d4992ecbab42daba7186771",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/1707.07671",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/22-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-023",
+      "citekey": "Pierce2026Ref23",
+      "kind": "preprint",
+      "csl": {
+        "id": "Pierce2026Ref23",
+        "type": "article",
+        "title": "Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing",
+        "author": [
+          {
+            "family": "Mitra",
+            "given": "Subhasish"
+          },
+          {
+            "family": "Banerjee",
+            "given": "Subho"
+          },
+          {
+            "family": "Dixon",
+            "given": "Martin"
+          },
+          {
+            "family": "Govindaraju",
+            "given": "Rama"
+          },
+          {
+            "family": "Hochschild",
+            "given": "Peter"
+          },
+          {
+            "family": "Liu",
+            "given": "Eric X."
+          },
+          {
+            "family": "Parthasarathy",
+            "given": "Bharath"
+          },
+          {
+            "family": "Ranganathan",
+            "given": "Parthasarathy"
+          }
+        ],
+        "URL": "https://arxiv.org/abs/2508.01786",
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              3
+            ]
+          ]
+        },
+        "archive": "arXiv",
+        "archive_location": "2508.01786",
+        "genre": "Preprint",
+        "note": "arXiv preprint; linked publication metadata remains separate."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://arxiv.org/abs/2508.01786",
+          "response_sha256": "8f6ca6c331f0e755e5b5b78b35fccd15031e1f949907a6372944218b3758b029",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://arxiv.org/abs/2508.01786",
+          "response_sha256": "8f6ca6c331f0e755e5b5b78b35fccd15031e1f949907a6372944218b3758b029",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://arxiv.org/abs/2508.01786",
+          "response_sha256": "8f6ca6c331f0e755e5b5b78b35fccd15031e1f949907a6372944218b3758b029",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive": {
+          "source_url": "https://arxiv.org/abs/2508.01786",
+          "response_sha256": "8f6ca6c331f0e755e5b5b78b35fccd15031e1f949907a6372944218b3758b029",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "archive_location": {
+          "source_url": "https://arxiv.org/abs/2508.01786",
+          "response_sha256": "8f6ca6c331f0e755e5b5b78b35fccd15031e1f949907a6372944218b3758b029",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://arxiv.org/abs/2508.01786",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/23-audit.json",
+      "adjudications": [
+        "Authority title punctuation/typography differs from the exact published string. Authority title is installed only in normalized exports."
+      ]
+    },
+    {
+      "work_id": "work-024",
+      "citekey": "Pierce2026Ref24",
+      "kind": "conference",
+      "csl": {
+        "id": "Pierce2026Ref24",
+        "type": "paper-conference",
+        "title": "Multi-fidelity Bayesian Optimisation with Continuous Approximations",
+        "author": [
+          {
+            "family": "Kandasamy",
+            "given": "Kirthevasan"
+          },
+          {
+            "family": "Dasarathy",
+            "given": "Gautam"
+          },
+          {
+            "family": "Schneider",
+            "given": "Jeff"
+          },
+          {
+            "family": "Póczos",
+            "given": "Barnabás"
+          }
+        ],
+        "URL": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              7,
+              17
+            ]
+          ]
+        },
+        "container-title": "International Conference on Machine Learning",
+        "publisher": "PMLR",
+        "page": "1799-1808",
+        "collection-title": "Proceedings of Machine Learning Research",
+        "volume": "70",
+        "note": "Published proceedings version."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "container-title": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "publisher": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "page": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "collection-title": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "volume": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/24-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-025",
+      "citekey": "Pierce2026Ref25",
+      "kind": "journal",
+      "csl": {
+        "id": "Pierce2026Ref25",
+        "type": "article-journal",
+        "title": "Exploring internal stickiness: Impediments to the transfer of best practice within the firm",
+        "author": [
+          {
+            "given": "Gabriel",
+            "family": "Szulanski"
+          }
+        ],
+        "URL": "https://doi.org/10.1002/smj.4250171105",
+        "issued": {
+          "date-parts": [
+            [
+              1996,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1002/smj.4250171105",
+        "publisher": "Wiley",
+        "container-title": "Strategic Management Journal",
+        "volume": "17",
+        "issue": "S2",
+        "page": "27-43",
+        "note": "Published print/proceedings version; exact original reference is retained separately."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "DOI": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "publisher": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "container-title": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "volume": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issue": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "page": {
+          "source_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+          "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://doi.org/10.1002/smj.4250171105",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/25-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-026",
+      "citekey": "Pierce2026Ref26",
+      "kind": "journal",
+      "csl": {
+        "id": "Pierce2026Ref26",
+        "type": "article-journal",
+        "title": "Power, Status, and Learning in Organizations",
+        "author": [
+          {
+            "given": "J. Stuart",
+            "family": "Bunderson"
+          },
+          {
+            "given": "Ray E.",
+            "family": "Reagans"
+          }
+        ],
+        "URL": "https://doi.org/10.1287/orsc.1100.0590",
+        "issued": {
+          "date-parts": [
+            [
+              2011,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1287/orsc.1100.0590",
+        "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+        "container-title": "Organization Science",
+        "volume": "22",
+        "issue": "5",
+        "page": "1182-1194",
+        "note": "Published print/proceedings version; exact original reference is retained separately."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "DOI": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "publisher": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "container-title": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "volume": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issue": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "page": {
+          "source_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+          "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://doi.org/10.1287/orsc.1100.0590",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/26-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-027",
+      "citekey": "Pierce2026Ref27",
+      "kind": "report",
+      "csl": {
+        "id": "Pierce2026Ref27",
+        "type": "report",
+        "title": "Zero Trust Architecture",
+        "author": [
+          {
+            "family": "Rose",
+            "given": "Scott"
+          },
+          {
+            "family": "Borchert",
+            "given": "Oliver"
+          },
+          {
+            "family": "Mitchell",
+            "given": "Stu"
+          },
+          {
+            "family": "Connelly",
+            "given": "Sean"
+          }
+        ],
+        "URL": "https://doi.org/10.6028/NIST.SP.800-207",
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              11
+            ]
+          ]
+        },
+        "publisher": "National Institute of Standards and Technology",
+        "number": "NIST Special Publication (SP) 800-207",
+        "DOI": "10.6028/NIST.SP.800-207",
+        "note": "NIST final publication."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+          "response_sha256": "57782feea2ee8c8d2cc76585925aa1733b510109e54386d3dd13bf2996a0d135",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+          "response_sha256": "57782feea2ee8c8d2cc76585925aa1733b510109e54386d3dd13bf2996a0d135",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+          "response_sha256": "57782feea2ee8c8d2cc76585925aa1733b510109e54386d3dd13bf2996a0d135",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "publisher": {
+          "source_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+          "response_sha256": "57782feea2ee8c8d2cc76585925aa1733b510109e54386d3dd13bf2996a0d135",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "number": {
+          "source_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+          "response_sha256": "57782feea2ee8c8d2cc76585925aa1733b510109e54386d3dd13bf2996a0d135",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "DOI": {
+          "source_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+          "response_sha256": "57782feea2ee8c8d2cc76585925aa1733b510109e54386d3dd13bf2996a0d135",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/27-audit.json",
+      "adjudications": []
+    },
+    {
+      "work_id": "work-028",
+      "citekey": "Pierce2026Ref28",
+      "kind": "journal",
+      "csl": {
+        "id": "Pierce2026Ref28",
+        "type": "article-journal",
+        "title": "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail",
+        "author": [
+          {
+            "given": "Matthew",
+            "family": "Beane"
+          }
+        ],
+        "URL": "https://doi.org/10.1177/0001839217751692",
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1177/0001839217751692",
+        "publisher": "SAGE Publications",
+        "container-title": "Administrative Science Quarterly",
+        "volume": "64",
+        "issue": "1",
+        "page": "87-123",
+        "note": "Published print/proceedings version; exact original reference is retained separately."
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "author": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issued": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "DOI": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "publisher": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "container-title": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "volume": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "issue": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "page": {
+          "source_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+          "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+          "basis": "primary registry or responsible repository/publisher metadata"
+        },
+        "URL": {
+          "source_url": "https://doi.org/10.1177/0001839217751692",
+          "basis": "published linked destination"
+        }
+      },
+      "authority_evidence": "authorities/28-audit.json",
+      "adjudications": [
+        "Crossref online date is 2018-01-09; cited volume 64(1) is the March 2019 print issue. Normalized issued date uses published-print [2019,3], and online date is retained in authority evidence."
+      ]
+    }
+  ],
+  "slot_to_work": [
+    {
+      "slot": 1,
+      "work_id": "work-001"
+    },
+    {
+      "slot": 2,
+      "work_id": "work-002"
+    },
+    {
+      "slot": 3,
+      "work_id": "work-003"
+    },
+    {
+      "slot": 4,
+      "work_id": "work-004"
+    },
+    {
+      "slot": 5,
+      "work_id": "work-005"
+    },
+    {
+      "slot": 6,
+      "work_id": "work-006"
+    },
+    {
+      "slot": 7,
+      "work_id": "work-007"
+    },
+    {
+      "slot": 8,
+      "work_id": "work-008"
+    },
+    {
+      "slot": 9,
+      "work_id": "work-009"
+    },
+    {
+      "slot": 10,
+      "work_id": "work-010"
+    },
+    {
+      "slot": 11,
+      "work_id": "work-011"
+    },
+    {
+      "slot": 12,
+      "work_id": "work-012"
+    },
+    {
+      "slot": 13,
+      "work_id": "work-013"
+    },
+    {
+      "slot": 14,
+      "work_id": "work-014"
+    },
+    {
+      "slot": 15,
+      "work_id": "work-015"
+    },
+    {
+      "slot": 16,
+      "work_id": "work-016"
+    },
+    {
+      "slot": 17,
+      "work_id": "work-017"
+    },
+    {
+      "slot": 18,
+      "work_id": "work-018"
+    },
+    {
+      "slot": 19,
+      "work_id": "work-019"
+    },
+    {
+      "slot": 20,
+      "work_id": "work-020"
+    },
+    {
+      "slot": 21,
+      "work_id": "work-021"
+    },
+    {
+      "slot": 22,
+      "work_id": "work-022"
+    },
+    {
+      "slot": 23,
+      "work_id": "work-023"
+    },
+    {
+      "slot": 24,
+      "work_id": "work-024"
+    },
+    {
+      "slot": 25,
+      "work_id": "work-025"
+    },
+    {
+      "slot": 26,
+      "work_id": "work-026"
+    },
+    {
+      "slot": 27,
+      "work_id": "work-027"
+    },
+    {
+      "slot": 28,
+      "work_id": "work-028"
+    }
+  ],
+  "completeness": {
+    "reference_slots": 28,
+    "work_count": 28,
+    "slot_work_links": 28,
+    "composite_slots": 0,
+    "reused_works": 0,
+    "unresolved_normalization": 0,
+    "authority_records_retrieved": 28,
+    "note": "Primary metadata review completed; independent export/round-trip gates are separate."
+  },
+  "adjudications": [
+    {
+      "slot": 1,
+      "status": "adjudicated; original preserved",
+      "detail": "Published slot names ASP-DAC 2020; linked arXiv record is a 2019 preprint. Normalized object identifies the linked preprint; no conference date is installed into that preprint."
+    },
+    {
+      "slot": 7,
+      "status": "adjudicated; original preserved",
+      "detail": "Authority title punctuation/typography differs from the exact published string. Authority title is installed only in normalized exports."
+    },
+    {
+      "slot": 8,
+      "status": "adjudicated; original preserved",
+      "detail": "Authority title punctuation/typography differs from the exact published string. Authority title is installed only in normalized exports."
+    },
+    {
+      "slot": 8,
+      "status": "adjudicated; original preserved",
+      "detail": "arXiv supplies a linked journal/proceedings DOI. It is retained in authority evidence; the normalized object stays the linked preprint, without mixing journal date/container fields."
+    },
+    {
+      "slot": 10,
+      "status": "adjudicated; original preserved",
+      "detail": "arXiv supplies a linked journal/proceedings DOI. It is retained in authority evidence; the normalized object stays the linked preprint, without mixing journal date/container fields."
+    },
+    {
+      "slot": 15,
+      "status": "adjudicated; original preserved",
+      "detail": "Authority title punctuation/typography differs from the exact published string. Authority title is installed only in normalized exports."
+    },
+    {
+      "slot": 15,
+      "status": "adjudicated; original preserved",
+      "detail": "arXiv supplies a linked journal/proceedings DOI. It is retained in authority evidence; the normalized object stays the linked preprint, without mixing journal date/container fields."
+    },
+    {
+      "slot": 18,
+      "status": "adjudicated; original preserved",
+      "detail": "arXiv supplies a linked journal/proceedings DOI. It is retained in authority evidence; the normalized object stays the linked preprint, without mixing journal date/container fields."
+    },
+    {
+      "slot": 21,
+      "status": "adjudicated; original preserved",
+      "detail": "Published author string includes Chandramouli V. Kashyap; Crossref supplies Chandramouli Kashyap. Registry name is used in normalized exports; published reference remains exact."
+    },
+    {
+      "slot": 23,
+      "status": "adjudicated; original preserved",
+      "detail": "Authority title punctuation/typography differs from the exact published string. Authority title is installed only in normalized exports."
+    },
+    {
+      "slot": 28,
+      "status": "adjudicated; original preserved",
+      "detail": "Crossref online date is 2018-01-09; cited volume 64(1) is the March 2019 print issue. Normalized issued date uses published-print [2019,3], and online date is retained in authority evidence."
+    }
+  ]
+}

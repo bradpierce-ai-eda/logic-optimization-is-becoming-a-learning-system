@@ -1,0 +1,36 @@
+{
+  "slot": 15,
+  "published_reference": "[15] Liwen Jiang, Andrew B Kahng, Zhiang Wang, and Zhiyu Zheng. [Invited] Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research. Preprint 2026.",
+  "source_url": "https://arxiv.org/abs/2601.17520",
+  "retrieval_url": "https://arxiv.org/abs/2601.17520",
+  "final_url": "https://arxiv.org/abs/2601.17520",
+  "status": 200,
+  "response_sha256": "35c132b44d8a4e1f715d8c53c612b2275fdf83db938f6c36ecc63463619b6bd7",
+  "authority": {
+    "citation_title": [
+      "Invited: Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research"
+    ],
+    "citation_author": [
+      "Jiang, Liwen",
+      "Kahng, Andrew B.",
+      "Wang, Zhiang",
+      "Zheng, Zhiyu"
+    ],
+    "citation_doi": [
+      "10.1145/3764386.3779611"
+    ],
+    "citation_date": [
+      "2026/01/24"
+    ],
+    "citation_online_date": [
+      "2026/01/24"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2601.17520"
+    ],
+    "citation_arxiv_id": [
+      "2601.17520"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}
