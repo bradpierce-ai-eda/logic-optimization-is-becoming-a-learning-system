@@ -1,0 +1,71 @@
+{
+  "slot": 28,
+  "published_reference": "[28] Matthew Beane. Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail. Administrative Science Quarterly 64(1):87–123, 2019.",
+  "source_url": "https://doi.org/10.1177/0001839217751692",
+  "retrieval_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+  "final_url": "https://api.crossref.org/works/10.1177%2F0001839217751692",
+  "status": 200,
+  "response_sha256": "29083cd8dad95057d688ace2784d6bf5c61d40023ce007fb06cc71898a409a86",
+  "authority": {
+    "publisher": "SAGE Publications",
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1177/0001839217751692",
+    "type": "journal-article",
+    "page": "87-123",
+    "title": [
+      "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail"
+    ],
+    "volume": "64",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1961-4585",
+        "authenticated-orcid": false,
+        "given": "Matthew",
+        "family": "Beane",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of California, Santa Barbara"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          9
+        ]
+      ]
+    },
+    "container-title": [
+      "Administrative Science Quarterly"
+    ],
+    "URL": "https://doi.org/10.1177/0001839217751692",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          9
+        ]
+      ]
+    }
+  },
+  "retrieved_date": "2026-11-09"
+}

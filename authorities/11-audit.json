@@ -1,0 +1,39 @@
+{
+  "slot": 11,
+  "published_reference": "[11] Chris Lattner and colleagues. MLIR: A Compiler Infrastructure for the End of Moore's Law. 2020.",
+  "source_url": "https://arxiv.org/abs/2002.11054",
+  "retrieval_url": "https://arxiv.org/abs/2002.11054",
+  "final_url": "https://arxiv.org/abs/2002.11054",
+  "status": 200,
+  "response_sha256": "b64addd8ec831be45e61272ef2b5f8eaa747b243fa0999f15e3aca93732a5450",
+  "authority": {
+    "citation_title": [
+      "MLIR: A Compiler Infrastructure for the End of Moore's Law"
+    ],
+    "citation_author": [
+      "Lattner, Chris",
+      "Amini, Mehdi",
+      "Bondhugula, Uday",
+      "Cohen, Albert",
+      "Davis, Andy",
+      "Pienaar, Jacques",
+      "Riddle, River",
+      "Shpeisman, Tatiana",
+      "Vasilache, Nicolas",
+      "Zinenko, Oleksandr"
+    ],
+    "citation_date": [
+      "2020/02/25"
+    ],
+    "citation_online_date": [
+      "2020/03/01"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2002.11054"
+    ],
+    "citation_arxiv_id": [
+      "2002.11054"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

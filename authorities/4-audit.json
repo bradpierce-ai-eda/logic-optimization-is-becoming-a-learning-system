@@ -1,0 +1,35 @@
+{
+  "slot": 4,
+  "published_reference": "[4] Yao Lu and colleagues. A New Benchmark for the Appropriate Evaluation of RTL Code Optimization. Preprint 2026.",
+  "source_url": "https://arxiv.org/abs/2601.01765",
+  "retrieval_url": "https://arxiv.org/abs/2601.01765",
+  "final_url": "https://arxiv.org/abs/2601.01765",
+  "status": 200,
+  "response_sha256": "d2d5d94f2c4eda7613dd91748f535c77630622861acf75107d78bf6cbd57d791",
+  "authority": {
+    "citation_title": [
+      "A New Benchmark for the Appropriate Evaluation of RTL Code Optimization"
+    ],
+    "citation_author": [
+      "Lu, Yao",
+      "Liu, Shang",
+      "Zhou, Hangan",
+      "Fang, Wenji",
+      "Zhang, Qijun",
+      "Xie, Zhiyao"
+    ],
+    "citation_date": [
+      "2026/01/05"
+    ],
+    "citation_online_date": [
+      "2026/01/05"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2601.01765"
+    ],
+    "citation_arxiv_id": [
+      "2601.01765"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

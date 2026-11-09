@@ -1,0 +1,75 @@
+{
+  "slot": 21,
+  "published_reference": "[21] Kip Killpack, Chandramouli V. Kashyap, and Eli Chiprout. Silicon Speedpath Measurement and Feedback into EDA Flows. DAC 2007.",
+  "source_url": "https://doi.org/10.1145/1278480.1278581",
+  "retrieval_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+  "final_url": "https://api.crossref.org/works/10.1145%2F1278480.1278581",
+  "status": 200,
+  "response_sha256": "3fa80ace972f197e6ca3ab295ec7013d3bc88d5a57778f3c82b4c1cc38ac6547",
+  "authority": {
+    "publisher": "ACM Press",
+    "published-print": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "DOI": "10.1145/1278480.1278581",
+    "type": "proceedings-article",
+    "page": "390",
+    "title": [
+      "Silicon speedpath measurement and feedback into EDA flows"
+    ],
+    "author": [
+      {
+        "given": "Kip",
+        "family": "Killpack",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chandramouli",
+        "family": "Kashyap",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eli",
+        "family": "Chiprout",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 44th annual conference on Design automation - DAC '07"
+    ],
+    "URL": "https://doi.org/10.1145/1278480.1278581",
+    "published": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  "retrieved_date": "2026-11-09"
+}

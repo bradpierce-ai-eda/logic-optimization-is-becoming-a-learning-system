@@ -1,0 +1,34 @@
+{
+  "slot": 14,
+  "published_reference": "[14] Haolin Pan, Lianghong Huang, Jinyuan Dong, Mingjie Xing, and Yanjun Wu. ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization. Preprint 2026.",
+  "source_url": "https://arxiv.org/abs/2602.00087",
+  "retrieval_url": "https://arxiv.org/abs/2602.00087",
+  "final_url": "https://arxiv.org/abs/2602.00087",
+  "status": 200,
+  "response_sha256": "c08b8acc672991f791052f57ece4f1ea8d6d5d003a4df0b2511b1e72d1f16efe",
+  "authority": {
+    "citation_title": [
+      "ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization"
+    ],
+    "citation_author": [
+      "Pan, Haolin",
+      "Huang, Lianghong",
+      "Dong, Jinyuan",
+      "Xing, Mingjie",
+      "Wu, Yanjun"
+    ],
+    "citation_date": [
+      "2026/01/23"
+    ],
+    "citation_online_date": [
+      "2026/01/23"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2602.00087"
+    ],
+    "citation_arxiv_id": [
+      "2602.00087"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

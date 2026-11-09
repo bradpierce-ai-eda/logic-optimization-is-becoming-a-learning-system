@@ -1,0 +1,100 @@
+{
+  "slot": 20,
+  "published_reference": "[20] Subhasish Mitra, Sanjit A. Seshia, and Nicola Nicolici. Post-Silicon Validation: Opportunities, Challenges and Recent Advances. DAC 2010.",
+  "source_url": "https://doi.org/10.1145/1837274.1837280",
+  "retrieval_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+  "final_url": "https://api.crossref.org/works/10.1145%2F1837274.1837280",
+  "status": 200,
+  "response_sha256": "5ec874d742654cfda9372a6c9b9ace3ccf613cc5ef84701c1cad673e9c6a3eb1",
+  "authority": {
+    "publisher": "ACM",
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1145/1837274.1837280",
+    "type": "proceedings-article",
+    "page": "12-17",
+    "title": [
+      "Post-silicon validation opportunities, challenges and recent advances"
+    ],
+    "author": [
+      {
+        "given": "Subhasish",
+        "family": "Mitra",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Stanford University, Stanford, CA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sanjit A.",
+        "family": "Seshia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley, CA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicola",
+        "family": "Nicolici",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "McMaster University, Hamilton, ON, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 47th Design Automation Conference"
+    ],
+    "URL": "https://doi.org/10.1145/1837274.1837280",
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          13
+        ]
+      ]
+    }
+  },
+  "retrieved_date": "2026-11-09"
+}

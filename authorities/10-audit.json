@@ -1,0 +1,36 @@
+{
+  "slot": 10,
+  "published_reference": "[10] Ross Tate, Michael Stepp, Zachary Tatlock, and Sorin Lerner. Equality Saturation: A New Approach to Optimization. 2010.",
+  "source_url": "https://arxiv.org/abs/1012.1802",
+  "retrieval_url": "https://arxiv.org/abs/1012.1802",
+  "final_url": "https://arxiv.org/abs/1012.1802",
+  "status": 200,
+  "response_sha256": "750ca3bc55bb64bc3dda914ef67971a7cc722fa648f12da4f2e45b4eb8e56024",
+  "authority": {
+    "citation_title": [
+      "Equality Saturation: A New Approach to Optimization"
+    ],
+    "citation_author": [
+      "Tate, Ross",
+      "Stepp, Michael",
+      "Tatlock, Zachary",
+      "Lerner, Sorin"
+    ],
+    "citation_doi": [
+      "10.2168/LMCS-7(1:10)2011"
+    ],
+    "citation_date": [
+      "2010/12/02"
+    ],
+    "citation_online_date": [
+      "2011/03/25"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/1012.1802"
+    ],
+    "citation_arxiv_id": [
+      "1012.1802"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

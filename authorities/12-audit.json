@@ -1,0 +1,35 @@
+{
+  "slot": 12,
+  "published_reference": "[12] Vu Le, Daniel Perelman, Oleksandr Polozov, Mohammad Raza, Abhishek Udupa, and Sumit Gulwani. Interactive Program Synthesis. POPL 2017.",
+  "source_url": "https://arxiv.org/abs/1703.03539",
+  "retrieval_url": "https://arxiv.org/abs/1703.03539",
+  "final_url": "https://arxiv.org/abs/1703.03539",
+  "status": 200,
+  "response_sha256": "10ff40e9314b52cc0253148d97e2551d7bd4ae8ba0220cac05ca7fe7767de76e",
+  "authority": {
+    "citation_title": [
+      "Interactive Program Synthesis"
+    ],
+    "citation_author": [
+      "Le, Vu",
+      "Perelman, Daniel",
+      "Polozov, Oleksandr",
+      "Raza, Mohammad",
+      "Udupa, Abhishek",
+      "Gulwani, Sumit"
+    ],
+    "citation_date": [
+      "2017/03/10"
+    ],
+    "citation_online_date": [
+      "2017/03/10"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/1703.03539"
+    ],
+    "citation_arxiv_id": [
+      "1703.03539"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

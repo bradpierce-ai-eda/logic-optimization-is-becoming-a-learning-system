@@ -1,0 +1,64 @@
+{
+  "slot": 25,
+  "published_reference": "[25] Gabriel Szulanski. Exploring Internal Stickiness: Impediments to the Transfer of Best Practice Within the Firm. Strategic Management Journal 17(S2):27–43, 1996.",
+  "source_url": "https://doi.org/10.1002/smj.4250171105",
+  "retrieval_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+  "final_url": "https://api.crossref.org/works/10.1002%2Fsmj.4250171105",
+  "status": 200,
+  "response_sha256": "1d5f6f90c59b8a90aa1e6904557c5ba6722766e1d2823b210598f207da2b2c17",
+  "authority": {
+    "publisher": "Wiley",
+    "issue": "S2",
+    "published-print": {
+      "date-parts": [
+        [
+          1996,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1002/smj.4250171105",
+    "type": "journal-article",
+    "page": "27-43",
+    "title": [
+      "Exploring internal stickiness: Impediments to the transfer of best practice within the firm"
+    ],
+    "volume": "17",
+    "author": [
+      {
+        "given": "Gabriel",
+        "family": "Szulanski",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          20
+        ]
+      ]
+    },
+    "container-title": [
+      "Strategic Management Journal"
+    ],
+    "URL": "https://doi.org/10.1002/smj.4250171105",
+    "published": {
+      "date-parts": [
+        [
+          1996,
+          12
+        ]
+      ]
+    }
+  },
+  "retrieved_date": "2026-11-09"
+}

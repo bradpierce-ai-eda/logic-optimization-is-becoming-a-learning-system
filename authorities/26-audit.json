@@ -1,0 +1,75 @@
+{
+  "slot": 26,
+  "published_reference": "[26] J. Stuart Bunderson and Ray E. Reagans. Power, Status, and Learning in Organizations. Organization Science 22(5):1182–1194, 2011.",
+  "source_url": "https://doi.org/10.1287/orsc.1100.0590",
+  "retrieval_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+  "final_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0590",
+  "status": 200,
+  "response_sha256": "6802578661e4056bb0b2b3ede1461df4d3b4a7438ddc598a10461bfa0a4ae9dc",
+  "authority": {
+    "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "issue": "5",
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1287/orsc.1100.0590",
+    "type": "journal-article",
+    "page": "1182-1194",
+    "title": [
+      "Power, Status, and Learning in Organizations"
+    ],
+    "volume": "22",
+    "author": [
+      {
+        "given": "J. Stuart",
+        "family": "Bunderson",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "John M. Olin School of Business, Washington University in St. Louis, St. Louis, Missouri 63130"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ray E.",
+        "family": "Reagans",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02142"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Organization Science"
+    ],
+    "URL": "https://doi.org/10.1287/orsc.1100.0590",
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    }
+  },
+  "retrieved_date": "2026-11-09"
+}

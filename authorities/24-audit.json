@@ -1,0 +1,51 @@
+{
+  "slot": 24,
+  "published_reference": "[24] Kirthevasan Kandasamy, Gautam Dasarathy, Jeff Schneider, and Barnabás Póczos. Multi-fidelity Bayesian Optimisation with Continuous Approximations. ICML 2017, Proceedings of Machine Learning Research 70:1799–1808.",
+  "source_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+  "retrieval_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+  "final_url": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+  "status": 200,
+  "response_sha256": "36e7a951419cf3063eb0581c35f102c77ce9a1ce09a9ec2e001ac8c2ee845570",
+  "authority": {
+    "citation_publisher": [
+      "PMLR"
+    ],
+    "citation_title": [
+      "Multi-fidelity Bayesian Optimisation with Continuous Approximations"
+    ],
+    "citation_language": [
+      "en"
+    ],
+    "citation_abstract_html_url": [
+      "https://proceedings.mlr.press/v70/kandasamy17a.html"
+    ],
+    "citation_pdf_url": [
+      "http://proceedings.mlr.press/v70/kandasamy17a/kandasamy17a.pdf"
+    ],
+    "citation_firstpage": [
+      "1799"
+    ],
+    "citation_lastpage": [
+      "1808"
+    ],
+    "citation_author": [
+      "Kirthevasan Kandasamy",
+      "Gautam Dasarathy",
+      "Jeff Schneider",
+      "Barnabás Póczos"
+    ],
+    "citation_publication_date": [
+      "2017/07/17"
+    ],
+    "citation_inbook_title": [
+      "International Conference on Machine Learning"
+    ],
+    "citation_conference_title": [
+      "International Conference on Machine Learning"
+    ],
+    "citation_issn": [
+      "2640-3498"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}

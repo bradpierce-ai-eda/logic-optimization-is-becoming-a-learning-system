@@ -1,0 +1,33 @@
+{
+  "slot": 1,
+  "published_reference": "[1] Abdelrahman Hosny, Soheil Hashemi, Mohamed Shalan, and Sherief Reda. DRiLLS: Deep Reinforcement Learning for Logic Synthesis. ASP-DAC 2020.",
+  "source_url": "https://arxiv.org/abs/1911.04021",
+  "retrieval_url": "https://arxiv.org/abs/1911.04021",
+  "final_url": "https://arxiv.org/abs/1911.04021",
+  "status": 200,
+  "response_sha256": "2130136373ea7b3147aa79da2a7ddeb2aa9014634280fceca259ed9c94cbc10c",
+  "authority": {
+    "citation_title": [
+      "DRiLLS: Deep Reinforcement Learning for Logic Synthesis"
+    ],
+    "citation_author": [
+      "Hosny, Abdelrahman",
+      "Hashemi, Soheil",
+      "Shalan, Mohamed",
+      "Reda, Sherief"
+    ],
+    "citation_date": [
+      "2019/11/11"
+    ],
+    "citation_online_date": [
+      "2019/11/13"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/1911.04021"
+    ],
+    "citation_arxiv_id": [
+      "1911.04021"
+    ]
+  },
+  "retrieved_date": "2026-11-09"
+}
