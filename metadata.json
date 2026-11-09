@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "title": "Logic Optimization Is Becoming a Learning System",
+  "subtitle": "Evidence-carrying counterfactuals, three learning loops, and the contest to own engineering memory",
+  "author": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-09-11",
+  "version": "1.0",
+  "resource_type": "Preprint",
+  "doi": "10.5281/zenodo.22837235",
+  "doi_url": "https://doi.org/10.5281/zenodo.22837235",
+  "zenodo_record": "https://zenodo.org/records/22837235",
+  "canonical_html_url": "https://bradpierce.ai/logic-optimization-is-becoming-a-learning-system/",
+  "pdf_url": "https://bradpierce.ai/logic-optimization-is-becoming-a-learning-system/paper.pdf",
+  "source_filename": "logic-optimization-is-becoming-a-learning-system.pdf",
+  "source_md5": "f58b461ff20cb473cbc8f701fada1e22",
+  "source_sha256": "18f5dc87b579157fa7260eeabda30f2bc40cc061c0eadbc5a977cdfc358ea65b",
+  "source_bytes": 639041,
+  "source_pages": 26,
+  "relevance_and_citation_scope": "This paper develops a research perspective on RTL logic optimization as a learning system. Its contributions are the proposed evidence-carrying counterfactual, the separation of design, search-policy, and apparatus learning loops, and a discussion of engineering memory and industry ownership. The cited individual tools and experiments remain evidence attributable to their original authors. The integrated architecture and proposed comparative tests are a research agenda, not a completed experimental validation. The DOI-linked Zenodo paper is the publication of record; this repository is a machine-readable reflection.",
+  "abstract": "Logic optimization is becoming a learning system, not merely a stage in a flow. Reinforcement learning already searches synthesis recipes. Large language model agents rewrite RTL, consult timing reports, invoke equivalence checkers, and retain reusable experience. Backend measurements steer frontend decisions. Equality saturation keeps many equivalent structures alive at once. Tool agents can even modify the optimizer itself. As these capabilities converge, the scarce resource shifts from generating alternatives to deciding which deserve trust, which deserve expensive evaluation, and which lessons should survive the next handoff.\n\nThat pressure creates a missing unit: not merely a winning artifact, but a candidate circuit with its case attached. This paper calls it an evidence-carrying counterfactual. It links a possible circuit to the contract it preserves, its proof or validation status, the tool and physical assumptions under which it was judged, the budget it consumed, a causal account of the result, its lineage, its uncertainty, and the conditions that should reopen a rejection. The exact schema will vary. The function becomes difficult to avoid as candidate volume rises and human attention becomes scarce.\n\nAround that unit, three loops can learn: the design, the search policy, and the apparatus that makes search possible. The same convergence creates an industry contest over who owns the learning loop, the obligations that ownership creates, and the engineering memory that may become either a moat or a source of customer leverage. The question is no longer only who generates the best candidate circuits. It is who owns the evidence and memory that determine which candidates deserve trust.\n\nThis paper offers a systems perspective and an experimental program. Its central contribution is to bind existing technical strands around the evidence-carrying counterfactual, separate the three learning loops, and connect them to the emerging contest over engineering memory. The industry can distribute these functions across existing tools and organizations, or give them other names. It still has to cope with the underlying pressures: more machine-generated alternatives, wider proof-enabled search, expensive and conditional physical truth, knowledge lost at handoffs, and automated systems that can change their own search apparatus.",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International"
+  },
+  "keywords": [
+    "RTL optimization",
+    "logic synthesis",
+    "electronic design automation",
+    "formal equivalence",
+    "design-space exploration",
+    "engineering memory",
+    "evidence-carrying counterfactuals"
+  ],
+  "preferred_citation": "Pierce, Brad. (2026). Logic Optimization Is Becoming a Learning System. Zenodo. https://doi.org/10.5281/zenodo.22837235",
+  "derivative_status": "faithful machine-readable derivative of the fixed Zenodo publication",
+  "github_project_url": "https://github.com/bradpierce-ai-eda/logic-optimization-is-becoming-a-learning-system",
+  "scope": "Metadata and citation context are derivative additions; paper.md and paper.pdf represent the published manuscript."
+}

@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "Pierce2026Ref01",
+    "type": "article",
+    "title": "DRiLLS: Deep Reinforcement Learning for Logic Synthesis",
+    "author": [
+      {
+        "family": "Hosny",
+        "given": "Abdelrahman"
+      },
+      {
+        "family": "Hashemi",
+        "given": "Soheil"
+      },
+      {
+        "family": "Shalan",
+        "given": "Mohamed"
+      },
+      {
+        "family": "Reda",
+        "given": "Sherief"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/1911.04021",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          11,
+          11
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "1911.04021",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref02",
+    "type": "article",
+    "title": "INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search",
+    "author": [
+      {
+        "family": "Chowdhury",
+        "given": "Animesh Basak"
+      },
+      {
+        "family": "Romanelli",
+        "given": "Marco"
+      },
+      {
+        "family": "Tan",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Karri",
+        "given": "Ramesh"
+      },
+      {
+        "family": "Garg",
+        "given": "Siddharth"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2305.13164",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          22
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2305.13164",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref03",
+    "type": "article",
+    "title": "SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Yiting"
+      },
+      {
+        "family": "Ye",
+        "given": "Wanghao"
+      },
+      {
+        "family": "Guo",
+        "given": "Ping"
+      },
+      {
+        "family": "He",
+        "given": "Yexiao"
+      },
+      {
+        "family": "Wang",
+        "given": "Ziyao"
+      },
+      {
+        "family": "Tian",
+        "given": "Bowei"
+      },
+      {
+        "family": "He",
+        "given": "Shwai"
+      },
+      {
+        "family": "Sun",
+        "given": "Guoheng"
+      },
+      {
+        "family": "Shen",
+        "given": "Zheyu"
+      },
+      {
+        "family": "Chen",
+        "given": "Sihan"
+      },
+      {
+        "family": "Srivastava",
+        "given": "Ankur"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qingfu"
+      },
+      {
+        "family": "Qu",
+        "given": "Gang"
+      },
+      {
+        "family": "Li",
+        "given": "Ang"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2504.10369",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          14
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2504.10369",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref04",
+    "type": "article",
+    "title": "A New Benchmark for the Appropriate Evaluation of RTL Code Optimization",
+    "author": [
+      {
+        "family": "Lu",
+        "given": "Yao"
+      },
+      {
+        "family": "Liu",
+        "given": "Shang"
+      },
+      {
+        "family": "Zhou",
+        "given": "Hangan"
+      },
+      {
+        "family": "Fang",
+        "given": "Wenji"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qijun"
+      },
+      {
+        "family": "Xie",
+        "given": "Zhiyao"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2601.01765",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          5
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2601.01765",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref05",
+    "type": "article",
+    "title": "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement",
+    "author": [
+      {
+        "family": "Fang",
+        "given": "Wenji"
+      },
+      {
+        "family": "Lu",
+        "given": "Yao"
+      },
+      {
+        "family": "Liu",
+        "given": "Shang"
+      },
+      {
+        "family": "Wang",
+        "given": "Jing"
+      },
+      {
+        "family": "Guo",
+        "given": "Ziyan"
+      },
+      {
+        "family": "He",
+        "given": "Junxian"
+      },
+      {
+        "family": "Tu",
+        "given": "Fengbin"
+      },
+      {
+        "family": "Xie",
+        "given": "Zhiyao"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2604.14989",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          16
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2604.14989",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref06",
+    "type": "article",
+    "title": "Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC",
+    "author": [
+      {
+        "family": "Yu",
+        "given": "Cunxi"
+      },
+      {
+        "family": "Ren",
+        "given": "Haoxing"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2604.15082",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          16
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2604.15082",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref07",
+    "type": "article",
+    "title": "MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend Aware Synthesis Optimization",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Yiting"
+      },
+      {
+        "family": "Ye",
+        "given": "Wanghao"
+      },
+      {
+        "family": "He",
+        "given": "Yexiao"
+      },
+      {
+        "family": "Chen",
+        "given": "Yiran"
+      },
+      {
+        "family": "Qu",
+        "given": "Gang"
+      },
+      {
+        "family": "Li",
+        "given": "Ang"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2507.19570",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2507.19570",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref08",
+    "type": "article",
+    "title": "StateTune: Transforming LLM-Assisted EDA Flow Tuning into a Stateful, Closed-Loop Process",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Kunlong"
+      },
+      {
+        "family": "Yao",
+        "given": "Shangshang"
+      },
+      {
+        "family": "Zheng",
+        "given": "Su"
+      },
+      {
+        "family": "Wang",
+        "given": "Lingli"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2608.23601",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          19
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2608.23601",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref09",
+    "type": "article",
+    "title": "E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis",
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Chen"
+      },
+      {
+        "family": "HU",
+        "given": "Guangyu"
+      },
+      {
+        "family": "Yu",
+        "given": "Cunxi"
+      },
+      {
+        "family": "Ma",
+        "given": "Yuzhe"
+      },
+      {
+        "family": "Zhang",
+        "given": "Hongce"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2504.11574",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          15
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2504.11574",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref10",
+    "type": "article",
+    "title": "Equality Saturation: A New Approach to Optimization",
+    "author": [
+      {
+        "family": "Tate",
+        "given": "Ross"
+      },
+      {
+        "family": "Stepp",
+        "given": "Michael"
+      },
+      {
+        "family": "Tatlock",
+        "given": "Zachary"
+      },
+      {
+        "family": "Lerner",
+        "given": "Sorin"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/1012.1802",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12,
+          2
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "1012.1802",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref11",
+    "type": "article",
+    "title": "MLIR: A Compiler Infrastructure for the End of Moore's Law",
+    "author": [
+      {
+        "family": "Lattner",
+        "given": "Chris"
+      },
+      {
+        "family": "Amini",
+        "given": "Mehdi"
+      },
+      {
+        "family": "Bondhugula",
+        "given": "Uday"
+      },
+      {
+        "family": "Cohen",
+        "given": "Albert"
+      },
+      {
+        "family": "Davis",
+        "given": "Andy"
+      },
+      {
+        "family": "Pienaar",
+        "given": "Jacques"
+      },
+      {
+        "family": "Riddle",
+        "given": "River"
+      },
+      {
+        "family": "Shpeisman",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Vasilache",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Zinenko",
+        "given": "Oleksandr"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2002.11054",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2002.11054",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref12",
+    "type": "article",
+    "title": "Interactive Program Synthesis",
+    "author": [
+      {
+        "family": "Le",
+        "given": "Vu"
+      },
+      {
+        "family": "Perelman",
+        "given": "Daniel"
+      },
+      {
+        "family": "Polozov",
+        "given": "Oleksandr"
+      },
+      {
+        "family": "Raza",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Udupa",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Gulwani",
+        "given": "Sumit"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/1703.03539",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          10
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "1703.03539",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref13",
+    "type": "article",
+    "title": "Information-theoretic User Interaction: Significant Inputs for Program Synthesis",
+    "author": [
+      {
+        "family": "Tiwari",
+        "given": "Ashish"
+      },
+      {
+        "family": "Radhakrishna",
+        "given": "Arjun"
+      },
+      {
+        "family": "Gulwani",
+        "given": "Sumit"
+      },
+      {
+        "family": "Perelman",
+        "given": "Daniel"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2006.12638",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          22
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2006.12638",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref14",
+    "type": "article",
+    "title": "ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization",
+    "author": [
+      {
+        "family": "Pan",
+        "given": "Haolin"
+      },
+      {
+        "family": "Huang",
+        "given": "Lianghong"
+      },
+      {
+        "family": "Dong",
+        "given": "Jinyuan"
+      },
+      {
+        "family": "Xing",
+        "given": "Mingjie"
+      },
+      {
+        "family": "Wu",
+        "given": "Yanjun"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2602.00087",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2602.00087",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref15",
+    "type": "article",
+    "title": "Invited: Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research",
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "Liwen"
+      },
+      {
+        "family": "Kahng",
+        "given": "Andrew B."
+      },
+      {
+        "family": "Wang",
+        "given": "Zhiang"
+      },
+      {
+        "family": "Zheng",
+        "given": "Zhiyu"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2601.17520",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          24
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2601.17520",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref16",
+    "type": "article",
+    "title": "OpenLS-DGF: An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis",
+    "author": [
+      {
+        "family": "Ni",
+        "given": "Liwei"
+      },
+      {
+        "family": "Wang",
+        "given": "Rui"
+      },
+      {
+        "family": "Liu",
+        "given": "Miao"
+      },
+      {
+        "family": "Meng",
+        "given": "Xingyu"
+      },
+      {
+        "family": "Lin",
+        "given": "Xiaoze"
+      },
+      {
+        "family": "Liu",
+        "given": "Junfeng"
+      },
+      {
+        "family": "Luo",
+        "given": "Guojie"
+      },
+      {
+        "family": "Chu",
+        "given": "Zhufei"
+      },
+      {
+        "family": "Qian",
+        "given": "Weikang"
+      },
+      {
+        "family": "Yang",
+        "given": "Xiaoyan"
+      },
+      {
+        "family": "Xie",
+        "given": "Biwei"
+      },
+      {
+        "family": "Li",
+        "given": "Xingquan"
+      },
+      {
+        "family": "Li",
+        "given": "Huawei"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2411.09422",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          14
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2411.09422",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref17",
+    "type": "article",
+    "title": "A Generic Model of Contracts for Embedded Systems",
+    "author": [
+      {
+        "family": "Benveniste",
+        "given": "Albert"
+      },
+      {
+        "family": "Caillaud",
+        "given": "Benoit"
+      },
+      {
+        "family": "Passerone",
+        "given": "Roberto"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/0706.1456",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          6,
+          11
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "0706.1456",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref18",
+    "type": "article",
+    "title": "Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design",
+    "author": [
+      {
+        "family": "Incer",
+        "given": "Inigo"
+      },
+      {
+        "family": "Badithela",
+        "given": "Apurva"
+      },
+      {
+        "family": "Graebener",
+        "given": "Josefine"
+      },
+      {
+        "family": "Mallozzi",
+        "given": "Piergiuseppe"
+      },
+      {
+        "family": "Pandey",
+        "given": "Ayush"
+      },
+      {
+        "family": "Yu",
+        "given": "Sheng-Jung"
+      },
+      {
+        "family": "Benveniste",
+        "given": "Albert"
+      },
+      {
+        "family": "Caillaud",
+        "given": "Benoit"
+      },
+      {
+        "family": "Murray",
+        "given": "Richard M."
+      },
+      {
+        "family": "Sangiovanni-Vincentelli",
+        "given": "Alberto"
+      },
+      {
+        "family": "Seshia",
+        "given": "Sanjit A."
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2303.17751",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          31
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2303.17751",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref19",
+    "type": "article",
+    "title": "Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows",
+    "author": [
+      {
+        "family": "Deng",
+        "given": "Jinyuan"
+      },
+      {
+        "family": "Chen",
+        "given": "Zhengrui"
+      },
+      {
+        "family": "Wei",
+        "given": "Xufeng"
+      },
+      {
+        "family": "Xing",
+        "given": "Tianyu"
+      },
+      {
+        "family": "Wen",
+        "given": "Chenyi"
+      },
+      {
+        "family": "Sun",
+        "given": "Qi"
+      },
+      {
+        "family": "Zhuo",
+        "given": "Cheng"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2607.17528",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          20
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2607.17528",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref20",
+    "type": "paper-conference",
+    "title": "Post-silicon validation opportunities, challenges and recent advances",
+    "author": [
+      {
+        "given": "Subhasish",
+        "family": "Mitra"
+      },
+      {
+        "given": "Sanjit A.",
+        "family": "Seshia"
+      },
+      {
+        "given": "Nicola",
+        "family": "Nicolici"
+      }
+    ],
+    "URL": "https://doi.org/10.1145/1837274.1837280",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1145/1837274.1837280",
+    "publisher": "ACM",
+    "container-title": "Proceedings of the 47th Design Automation Conference",
+    "page": "12-17",
+    "note": "Published print/proceedings version; exact original reference is retained separately."
+  },
+  {
+    "id": "Pierce2026Ref21",
+    "type": "paper-conference",
+    "title": "Silicon speedpath measurement and feedback into EDA flows",
+    "author": [
+      {
+        "given": "Kip",
+        "family": "Killpack"
+      },
+      {
+        "given": "Chandramouli",
+        "family": "Kashyap"
+      },
+      {
+        "given": "Eli",
+        "family": "Chiprout"
+      }
+    ],
+    "URL": "https://doi.org/10.1145/1278480.1278581",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "DOI": "10.1145/1278480.1278581",
+    "publisher": "ACM Press",
+    "container-title": "Proceedings of the 44th annual conference on Design automation - DAC '07",
+    "page": "390",
+    "note": "Published print/proceedings version; exact original reference is retained separately."
+  },
+  {
+    "id": "Pierce2026Ref22",
+    "type": "article",
+    "title": "E-QED: Electrical Bug Localization During Post-Silicon Validation Enabled by Quick Error Detection and Formal Methods",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "Eshan"
+      },
+      {
+        "family": "Barrett",
+        "given": "Clark"
+      },
+      {
+        "family": "Mitra",
+        "given": "Subhasish"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/1707.07671",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          23
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "1707.07671",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref23",
+    "type": "article",
+    "title": "Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing",
+    "author": [
+      {
+        "family": "Mitra",
+        "given": "Subhasish"
+      },
+      {
+        "family": "Banerjee",
+        "given": "Subho"
+      },
+      {
+        "family": "Dixon",
+        "given": "Martin"
+      },
+      {
+        "family": "Govindaraju",
+        "given": "Rama"
+      },
+      {
+        "family": "Hochschild",
+        "given": "Peter"
+      },
+      {
+        "family": "Liu",
+        "given": "Eric X."
+      },
+      {
+        "family": "Parthasarathy",
+        "given": "Bharath"
+      },
+      {
+        "family": "Ranganathan",
+        "given": "Parthasarathy"
+      }
+    ],
+    "URL": "https://arxiv.org/abs/2508.01786",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          3
+        ]
+      ]
+    },
+    "archive": "arXiv",
+    "archive_location": "2508.01786",
+    "genre": "Preprint",
+    "note": "arXiv preprint; linked publication metadata remains separate."
+  },
+  {
+    "id": "Pierce2026Ref24",
+    "type": "paper-conference",
+    "title": "Multi-fidelity Bayesian Optimisation with Continuous Approximations",
+    "author": [
+      {
+        "family": "Kandasamy",
+        "given": "Kirthevasan"
+      },
+      {
+        "family": "Dasarathy",
+        "given": "Gautam"
+      },
+      {
+        "family": "Schneider",
+        "given": "Jeff"
+      },
+      {
+        "family": "Póczos",
+        "given": "Barnabás"
+      }
+    ],
+    "URL": "https://proceedings.mlr.press/v70/kandasamy17a.html",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          17
+        ]
+      ]
+    },
+    "container-title": "International Conference on Machine Learning",
+    "publisher": "PMLR",
+    "page": "1799-1808",
+    "collection-title": "Proceedings of Machine Learning Research",
+    "volume": "70",
+    "note": "Published proceedings version."
+  },
+  {
+    "id": "Pierce2026Ref25",
+    "type": "article-journal",
+    "title": "Exploring internal stickiness: Impediments to the transfer of best practice within the firm",
+    "author": [
+      {
+        "given": "Gabriel",
+        "family": "Szulanski"
+      }
+    ],
+    "URL": "https://doi.org/10.1002/smj.4250171105",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1002/smj.4250171105",
+    "publisher": "Wiley",
+    "container-title": "Strategic Management Journal",
+    "volume": "17",
+    "issue": "S2",
+    "page": "27-43",
+    "note": "Published print/proceedings version; exact original reference is retained separately."
+  },
+  {
+    "id": "Pierce2026Ref26",
+    "type": "article-journal",
+    "title": "Power, Status, and Learning in Organizations",
+    "author": [
+      {
+        "given": "J. Stuart",
+        "family": "Bunderson"
+      },
+      {
+        "given": "Ray E.",
+        "family": "Reagans"
+      }
+    ],
+    "URL": "https://doi.org/10.1287/orsc.1100.0590",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1287/orsc.1100.0590",
+    "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "container-title": "Organization Science",
+    "volume": "22",
+    "issue": "5",
+    "page": "1182-1194",
+    "note": "Published print/proceedings version; exact original reference is retained separately."
+  },
+  {
+    "id": "Pierce2026Ref27",
+    "type": "report",
+    "title": "Zero Trust Architecture",
+    "author": [
+      {
+        "family": "Rose",
+        "given": "Scott"
+      },
+      {
+        "family": "Borchert",
+        "given": "Oliver"
+      },
+      {
+        "family": "Mitchell",
+        "given": "Stu"
+      },
+      {
+        "family": "Connelly",
+        "given": "Sean"
+      }
+    ],
+    "URL": "https://doi.org/10.6028/NIST.SP.800-207",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          11
+        ]
+      ]
+    },
+    "publisher": "National Institute of Standards and Technology",
+    "number": "NIST Special Publication (SP) 800-207",
+    "DOI": "10.6028/NIST.SP.800-207",
+    "note": "NIST final publication."
+  },
+  {
+    "id": "Pierce2026Ref28",
+    "type": "article-journal",
+    "title": "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail",
+    "author": [
+      {
+        "given": "Matthew",
+        "family": "Beane"
+      }
+    ],
+    "URL": "https://doi.org/10.1177/0001839217751692",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1177/0001839217751692",
+    "publisher": "SAGE Publications",
+    "container-title": "Administrative Science Quarterly",
+    "volume": "64",
+    "issue": "1",
+    "page": "87-123",
+    "note": "Published print/proceedings version; exact original reference is retained separately."
+  }
+]

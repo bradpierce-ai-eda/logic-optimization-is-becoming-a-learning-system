@@ -1,0 +1,40 @@
+{
+  "authority": {
+    "source": "https://zenodo.org/records/22837235",
+    "version_doi": "10.5281/zenodo.22837235",
+    "published_filename": "logic-optimization-is-becoming-a-learning-system.pdf",
+    "published_md5": "f58b461ff20cb473cbc8f701fada1e22",
+    "published_sha256": "18f5dc87b579157fa7260eeabda30f2bc40cc061c0eadbc5a977cdfc358ea65b",
+    "published_bytes": 639041,
+    "pages": 26,
+    "date": "2026-09-11"
+  },
+  "working_source": {
+    "type": "private signed-off production document retained by the author; not included in public repository",
+    "docx_sha256": "e3d147b3c0877c4fa0790fbd31012ee799a76ae4dee5dcd9cffadeb18c3b3baa",
+    "source_pdf_md5_matches_zenodo": true
+  },
+  "derivation": {
+    "method": "python-docx ordered XML block extraction; lossless source PDF mirror; embedded images copied byte-for-byte; published references copied in place",
+    "versions": {
+      "python-docx": "1.2.0"
+    },
+    "headings": 47,
+    "tables": 13,
+    "images": 2,
+    "numbered_references": 28,
+    "all_published_text_preserved_from_source": true
+  },
+  "status": "machine-readable representation of the fixed Zenodo publication; original PDF is authoritative",
+  "limitations": [
+    "Source Word document provides structured text, tables, links and figures. The source PDF is preserved byte-identically.",
+    "Source-ordered structural comparison to the PDF and visual QA are documented in a private review receipt and are not published as part of this derivative."
+  ],
+  "bibliography_review": {
+    "date": "2026-11-09",
+    "primary_authorities": 28,
+    "preserved_published_slots": 28,
+    "adjudicated_variations": 11,
+    "export_gate": "See standalone validators and private release receipt."
+  }
+}
