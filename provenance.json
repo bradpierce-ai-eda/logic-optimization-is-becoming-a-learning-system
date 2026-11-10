@@ -36,5 +36,10 @@
     "preserved_published_slots": 28,
     "adjudicated_variations": 11,
     "export_gate": "See standalone validators and private release receipt."
+  },
+  "html_disclosure_override": {
+    "authorized_on": "2026-11-09",
+    "scope": "HTML contribution statement only; the deposited PDF and canonical Markdown remain unchanged.",
+    "statement": "This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication."
   }
 }
